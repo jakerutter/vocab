@@ -1,0 +1,1685 @@
+{
+  "grade": 3,
+  "words": [
+    {
+      "word": "ability",
+      "definition": "The power or skill to do something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "skill",
+        "practice",
+        "talent"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "absorb",
+      "definition": "To take in or soak up a substance, energy, or information.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "sponge",
+        "liquid",
+        "moisture"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "accuse",
+      "definition": "To charge someone with doing something wrong or illegal.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "evidence",
+        "suspect",
+        "trial"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "act",
+      "definition": "To do something; to take action.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "decision",
+        "behavior",
+        "action"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "active",
+      "definition": "Engaged in action or activity.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "exercise",
+        "energy",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "actual",
+      "definition": "Existing in fact; real.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "fact",
+        "reality",
+        "evidence"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "adopt",
+      "definition": "To take up, accept, or begin to use something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "family",
+        "idea",
+        "tradition"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "advantage",
+      "definition": "A condition or circumstance that puts someone in a favorable position.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "competition",
+        "opportunity",
+        "position"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "advice",
+      "definition": "Guidance or recommendations about what someone should do.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "guidance",
+        "decision",
+        "mentor"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ambition",
+      "definition": "A strong desire to achieve or accomplish something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "goal",
+        "effort",
+        "achievement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ancient",
+      "definition": "Belonging to the very distant past.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "history",
+        "ruins",
+        "civilization"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "approach",
+      "definition": "To come near or nearer to something or someone.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "distance",
+        "arrival",
+        "destination"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "arrange",
+      "definition": "To put things in a particular order or position.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "order",
+        "pattern",
+        "schedule"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "arctic",
+      "definition": "Relating to the region around the North Pole.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "ice",
+        "polar",
+        "climate"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "attitude",
+      "definition": "A way of thinking or feeling about someone or something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "opinion",
+        "behavior",
+        "mood"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "attract",
+      "definition": "To cause someone or something to come nearer or become interested.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "magnet",
+        "interest",
+        "attention"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "average",
+      "definition": "A number obtained by adding several amounts and dividing by the number of amounts.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "numbers",
+        "sum",
+        "division"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "avoid",
+      "definition": "To keep away from or prevent something from happening.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "danger",
+        "obstacle",
+        "prevention"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bold",
+      "definition": "Showing courage and a willingness to take risks.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "courage",
+        "challenge",
+        "risk"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "border",
+      "definition": "A line separating two areas, regions, or countries.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "boundary",
+        "country",
+        "map"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "brief",
+      "definition": "Short in time or length.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "summary",
+        "time",
+        "message"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "brilliant",
+      "definition": "Exceptionally clever, talented, or impressive.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "idea",
+        "achievement",
+        "talent"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "cable",
+      "definition": "A thick rope or a bundle of wires used to carry electricity or signals.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "wire",
+        "electricity",
+        "connection"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "capture",
+      "definition": "To catch and take control of someone or something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "net",
+        "escape",
+        "prisoner"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "certain",
+      "definition": "Known for sure; definite.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "proof",
+        "fact",
+        "confidence"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "chill",
+      "definition": "A feeling of coldness.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "winter",
+        "cold",
+        "temperature"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "clever",
+      "definition": "Quick to understand, learn, or think of things.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "puzzle",
+        "solution",
+        "idea"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "climate",
+      "definition": "The usual weather conditions of a place over a long period.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "weather",
+        "temperature",
+        "rainfall"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "cling",
+      "definition": "To hold tightly to something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "grip",
+        "surface",
+        "support"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "coast",
+      "definition": "The land along the edge of a sea or ocean.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "ocean",
+        "beach",
+        "shoreline"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "confess",
+      "definition": "To admit that one has done something wrong.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "truth",
+        "mistake",
+        "responsibility"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "consider",
+      "definition": "To think carefully about something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "choice",
+        "thought",
+        "decision"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "contain",
+      "definition": "To have or hold something within.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "container",
+        "contents",
+        "boundary"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "continent",
+      "definition": "One of Earth's large continuous areas of land.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "geography",
+        "landmass",
+        "ocean"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "convince",
+      "definition": "To cause someone to believe that something is true.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "argument",
+        "evidence",
+        "opinion"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "coward",
+      "definition": "A person who lacks courage.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "fear",
+        "danger",
+        "courage"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "crew",
+      "definition": "A group of people who work together, especially on a ship, aircraft, or other vehicle.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "team",
+        "ship",
+        "aircraft"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "crumple",
+      "definition": "To crush or press something so that it becomes wrinkled or folded.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "paper",
+        "wrinkle",
+        "fold"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "custom",
+      "definition": "A traditional or usual way of behaving or doing something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "tradition",
+        "community",
+        "culture"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "decay",
+      "definition": "To gradually rot or become damaged.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "rot",
+        "time",
+        "decomposition"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "deed",
+      "definition": "An action that is performed intentionally.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "action",
+        "choice",
+        "consequence"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "defend",
+      "definition": "To protect someone or something from attack or harm.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "shield",
+        "attack",
+        "protection"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "delicate",
+      "definition": "Easily damaged, broken, or injured.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "glass",
+        "fragility",
+        "care"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "device",
+      "definition": "A tool or piece of equipment made for a particular purpose.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "tool",
+        "purpose",
+        "technology"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "diagram",
+      "definition": "A drawing that explains the parts or workings of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "labels",
+        "drawing",
+        "explanation"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "digest",
+      "definition": "To break down food in the body so it can be absorbed.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "food",
+        "stomach",
+        "nutrients"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "disease",
+      "definition": "An illness or condition that prevents the body from functioning normally.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "illness",
+        "health",
+        "symptoms"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "distant",
+      "definition": "Far away in space or time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "space",
+        "travel",
+        "horizon"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "doze",
+      "definition": "To sleep lightly for a short time.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "sleep",
+        "rest",
+        "afternoon"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "drift",
+      "definition": "To be carried slowly by air, water, or another force.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "current",
+        "wind",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "elegant",
+      "definition": "Graceful and attractive in appearance or manner.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "design",
+        "grace",
+        "appearance"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "enable",
+      "definition": "To make it possible for someone or something to do something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "access",
+        "permission",
+        "opportunity"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "examine",
+      "definition": "To inspect or study something carefully.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "details",
+        "evidence",
+        "observation"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "explore",
+      "definition": "To travel through or investigate a place or subject in order to learn about it.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "discovery",
+        "journey",
+        "map"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fan",
+      "definition": "A device with rotating blades that creates a current of air.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "airflow",
+        "blades",
+        "cooling"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fatal",
+      "definition": "Causing or resulting in death.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "danger",
+        "injury",
+        "outcome"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fierce",
+      "definition": "Strong, violent, aggressive, or intense.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "storm",
+        "battle",
+        "intensity"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "flutter",
+      "definition": "To move quickly and lightly back and forth or up and down.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "wings",
+        "breeze",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fortunate",
+      "definition": "Having or bringing good luck.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "luck",
+        "opportunity",
+        "outcome"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "frail",
+      "definition": "Weak and easily damaged or injured.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "strength",
+        "injury",
+        "care"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gasp",
+      "definition": "To take a sudden, short breath, especially from surprise or difficulty breathing.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "breath",
+        "surprise",
+        "shock"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "glide",
+      "definition": "To move smoothly and continuously.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "ice",
+        "air",
+        "smoothness"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "globe",
+      "definition": "A round model of Earth or another planet.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "earth",
+        "geography",
+        "continents"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "grace",
+      "definition": "Smoothness and elegance of movement or manner.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "dance",
+        "movement",
+        "elegance"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gradual",
+      "definition": "Happening or changing slowly over time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "time",
+        "change",
+        "progress"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "grasp",
+      "definition": "To take and hold something firmly.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "hand",
+        "object",
+        "grip"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "habit",
+      "definition": "A regular behavior or practice that is difficult to stop.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "routine",
+        "repetition",
+        "behavior"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "harsh",
+      "definition": "Unpleasantly rough, severe, or cruel.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weather",
+        "criticism",
+        "conditions"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "imitate",
+      "definition": "To copy the actions, appearance, or behavior of someone or something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "example",
+        "behavior",
+        "copying"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "individual",
+      "definition": "A single person or thing considered separately from a group.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "person",
+        "group",
+        "identity"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "intelligent",
+      "definition": "Having or showing an ability to learn, understand, and think.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "learning",
+        "reasoning",
+        "knowledge"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "intend",
+      "definition": "To plan or mean to do something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "plan",
+        "purpose",
+        "future"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "journey",
+      "definition": "An act of traveling from one place to another.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "travel",
+        "destination",
+        "route"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "launch",
+      "definition": "To start or set something in motion.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "rocket",
+        "beginning",
+        "motion"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "limit",
+      "definition": "A point or boundary beyond which something cannot or may not go.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "boundary",
+        "rule",
+        "maximum"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "locate",
+      "definition": "To find or discover the exact position of something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "map",
+        "position",
+        "search"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "loyal",
+      "definition": "Showing firm and constant support or allegiance to a person, group, or cause.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "friendship",
+        "trust",
+        "commitment"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "magnificent",
+      "definition": "Extremely beautiful, impressive, or grand.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "architecture",
+        "beauty",
+        "scale"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "marsh",
+      "definition": "An area of low-lying land that is often wet and covered with grasses or reeds.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "wetland",
+        "reeds",
+        "water"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "method",
+      "definition": "A particular way of doing something, especially an organized or systematic way.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "steps",
+        "process",
+        "plan"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "misery",
+      "definition": "A state of great unhappiness, suffering, or distress.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "suffering",
+        "distress",
+        "sadness"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "moisture",
+      "definition": "A small amount of water or other liquid present in the air or on a surface.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "humidity",
+        "water",
+        "surface"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "mural",
+      "definition": "A large painting or other work of art made directly on a wall or ceiling.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "painting",
+        "wall",
+        "artist"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "mystify",
+      "definition": "To confuse or puzzle someone by making something difficult to understand.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "puzzle",
+        "question",
+        "confusion"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nation",
+      "definition": "A large group of people living in a particular country under one government.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "country",
+        "government",
+        "people"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nectar",
+      "definition": "A sweet liquid produced by flowers that attracts insects and birds.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "flower",
+        "bee",
+        "pollination"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nursery",
+      "definition": "A place where young children are cared for or where young plants are grown.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "children",
+        "plants",
+        "care"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "observe",
+      "definition": "To watch carefully, especially in order to learn something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "attention",
+        "details",
+        "science"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "opponent",
+      "definition": "A person who competes against or disagrees with another person.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "competition",
+        "debate",
+        "rivalry"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "opposite",
+      "definition": "Completely different from something else or situated on the other side.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "direction",
+        "contrast",
+        "position"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ordeal",
+      "definition": "A painful, difficult, or frightening experience.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "difficulty",
+        "experience",
+        "endurance"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "origin",
+      "definition": "The point or place where something begins, arises, or is derived.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "beginning",
+        "source",
+        "history"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "outcome",
+      "definition": "The result or effect of an action, event, or situation.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "result",
+        "event",
+        "consequence"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "passage",
+      "definition": "A section of a written work or a way through or along which someone may travel.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "book",
+        "corridor",
+        "travel"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "pastime",
+      "definition": "An activity that someone does regularly for enjoyment rather than work.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "hobby",
+        "leisure",
+        "enjoyment"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "pause",
+      "definition": "A temporary stop or break in an action or activity.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "break",
+        "silence",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "perform",
+      "definition": "To carry out an action, task, or duty, or to entertain an audience.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "stage",
+        "task",
+        "audience"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "plunge",
+      "definition": "To jump, fall, or move suddenly and quickly into something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "water",
+        "depth",
+        "speed"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "predator",
+      "definition": "An animal that hunts, kills, and eats other animals.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "prey",
+        "hunt",
+        "food chain"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "predict",
+      "definition": "To say or estimate that something will happen in the future.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "forecast",
+        "evidence",
+        "future"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "prevent",
+      "definition": "To stop something from happening or someone from doing something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "safety",
+        "risk",
+        "protection"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "primary",
+      "definition": "Of greatest importance; main or first.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "priority",
+        "importance",
+        "first"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "privilege",
+      "definition": "A special right, advantage, or benefit granted to a particular person or group.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "opportunity",
+        "right",
+        "access"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "process",
+      "definition": "A series of actions or steps taken to achieve a particular result.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "steps",
+        "method",
+        "result"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "rare",
+      "definition": "Not occurring very often or not found in large numbers.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "scarcity",
+        "frequency",
+        "discovery"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "rate",
+      "definition": "A measure of the speed, frequency, or amount of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "speed",
+        "frequency",
+        "measurement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "recall",
+      "definition": "To bring a fact, event, or experience back into one's mind.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "memory",
+        "experience",
+        "knowledge"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "rely",
+      "definition": "To depend on someone or something with trust or confidence.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "trust",
+        "support",
+        "dependence"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "remark",
+      "definition": "Something said or written as a comment or observation.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "comment",
+        "conversation",
+        "observation"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "resident",
+      "definition": "A person who lives in a particular place.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "home",
+        "neighborhood",
+        "community"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "respect",
+      "definition": "A feeling of admiration for someone or something because of their qualities, abilities, or achievements.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "admiration",
+        "character",
+        "achievement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "responsible",
+      "definition": "Having a duty to take care of something or being accountable for one's actions.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "duty",
+        "accountability",
+        "trust"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "reverse",
+      "definition": "To move backward or change something to its opposite direction or condition.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "direction",
+        "change",
+        "movement"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "revive",
+      "definition": "To bring back to life, consciousness, strength, or activity.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "recovery",
+        "strength",
+        "energy"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "risk",
+      "definition": "The possibility of suffering harm, loss, or danger.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "danger",
+        "chance",
+        "decision"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "scatter",
+      "definition": "To throw or spread things in different directions over a wide area.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "seeds",
+        "wind",
+        "distance"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "schedule",
+      "definition": "A plan that lists events or tasks and the times when they are to happen.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "calendar",
+        "events",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sensitive",
+      "definition": "Quick to detect or respond to slight changes, signals, or influences.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "reaction",
+        "change",
+        "signals"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "signal",
+      "definition": "A gesture, sound, or action used to convey information or instructions.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "message",
+        "warning",
+        "communication"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "solution",
+      "definition": "A way of solving a problem or dealing with a difficult situation.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "problem",
+        "method",
+        "answer"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "spoil",
+      "definition": "To damage or ruin the quality, value, or enjoyment of something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "food",
+        "damage",
+        "quality"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "starve",
+      "definition": "To suffer or die from a lack of food.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "hunger",
+        "food",
+        "survival"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "steer",
+      "definition": "To guide or control the direction of a vehicle or other moving object.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "vehicle",
+        "wheel",
+        "direction"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "struggled",
+      "definition": "Made great efforts to achieve something or overcome a difficulty.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "effort",
+        "obstacle",
+        "challenge"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "suitable",
+      "definition": "Right or appropriate for a particular person, purpose, or situation.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "purpose",
+        "choice",
+        "requirements"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "survey",
+      "definition": "To examine or investigate something carefully or to collect information by asking people questions.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "questions",
+        "data",
+        "investigation"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "swift",
+      "definition": "Moving or happening very quickly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "speed",
+        "movement",
+        "time"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "symbol",
+      "definition": "A mark, sign, or object that represents something else.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "meaning",
+        "sign",
+        "representation"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "talent",
+      "definition": "A natural ability or skill, especially one that is above average.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "practice",
+        "music",
+        "ability"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "theory",
+      "definition": "An idea or set of ideas intended to explain facts, events, or observations.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "evidence",
+        "explanation",
+        "science"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "thrill",
+      "definition": "A sudden feeling of excitement, pleasure, or fear.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "excitement",
+        "surprise",
+        "adventure"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "treasure",
+      "definition": "Valuable objects, especially gold, silver, money, or precious stones.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "gold",
+        "discovery",
+        "value"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "triumph",
+      "definition": "A great victory or achievement.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "victory",
+        "effort",
+        "celebration"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "value",
+      "definition": "The worth, importance, or usefulness of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "worth",
+        "importance",
+        "price"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vision",
+      "definition": "The ability to see or an idea of what the future could be like.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "eyesight",
+        "future",
+        "imagination"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "volunteer",
+      "definition": "A person who freely offers to do something without being forced or paid.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "service",
+        "community",
+        "help"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wander",
+      "definition": "To walk or move around without a fixed direction or purpose.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "travel",
+        "direction",
+        "exploration"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wisdom",
+      "definition": "The ability to make good judgments based on knowledge, experience, and understanding.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "experience",
+        "judgment",
+        "learning"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wit",
+      "definition": "The ability to think quickly and express ideas in a clever or humorous way.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "humor",
+        "conversation",
+        "quick thinking"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "woe",
+      "definition": "Great sorrow, distress, or trouble.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "sorrow",
+        "hardship",
+        "distress"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

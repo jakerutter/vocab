@@ -1,0 +1,2554 @@
+{
+  "grade": 4,
+  "words": [
+    {
+      "word": "abundant",
+      "definition": "Present in large amounts; more than enough.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "harvest",
+        "resources",
+        "supply"
+      ],
+      "synonyms": [
+        "plentiful",
+        "ample"
+      ],
+      "antonyms": [
+        "scarce",
+        "limited"
+      ]
+    },
+    {
+      "word": "accomplish",
+      "definition": "To successfully finish or achieve something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "goal",
+        "effort",
+        "success"
+      ],
+      "synonyms": [
+        "achieve",
+        "complete"
+      ],
+      "antonyms": [
+        "fail"
+      ]
+    },
+    {
+      "word": "accurate",
+      "definition": "Correct and free from mistakes.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "measurement",
+        "answer",
+        "details"
+      ],
+      "synonyms": [
+        "correct",
+        "precise"
+      ],
+      "antonyms": [
+        "inaccurate",
+        "incorrect"
+      ]
+    },
+    {
+      "word": "adapt",
+      "definition": "To change in order to fit new conditions.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "environment",
+        "change",
+        "survival"
+      ],
+      "synonyms": [
+        "adjust",
+        "modify"
+      ],
+      "antonyms": [
+        "resist"
+      ]
+    },
+    {
+      "word": "adequate",
+      "definition": "Good enough for a particular need or purpose.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "supplies",
+        "requirements",
+        "amount"
+      ],
+      "synonyms": [
+        "sufficient",
+        "satisfactory"
+      ],
+      "antonyms": [
+        "insufficient",
+        "inadequate"
+      ]
+    },
+    {
+      "word": "admire",
+      "definition": "To feel respect or approval for someone or something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "hero",
+        "achievement",
+        "respect"
+      ],
+      "synonyms": [
+        "respect",
+        "appreciate"
+      ],
+      "antonyms": [
+        "dislike",
+        "despise"
+      ]
+    },
+    {
+      "word": "alert",
+      "definition": "Quick to notice what is happening and ready to act.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "attention",
+        "safety",
+        "warning"
+      ],
+      "synonyms": [
+        "watchful",
+        "attentive"
+      ],
+      "antonyms": [
+        "unaware",
+        "inattentive"
+      ]
+    },
+    {
+      "word": "analyze",
+      "definition": "To examine something carefully to understand its parts or meaning.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "information",
+        "details",
+        "problem"
+      ],
+      "synonyms": [
+        "examine",
+        "study"
+      ],
+      "antonyms": [
+        "ignore"
+      ]
+    },
+    {
+      "word": "anxious",
+      "definition": "Feeling worried or uneasy about something that may happen.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "worry",
+        "test",
+        "uncertainty"
+      ],
+      "synonyms": [
+        "worried",
+        "uneasy"
+      ],
+      "antonyms": [
+        "calm",
+        "relaxed"
+      ]
+    },
+    {
+      "word": "appeal",
+      "definition": "An earnest request for help or for a decision to be changed.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "request",
+        "judge",
+        "help"
+      ],
+      "synonyms": [
+        "plea",
+        "request"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "appreciate",
+      "definition": "To recognize the value of something or feel thankful for it.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "gratitude",
+        "gift",
+        "effort"
+      ],
+      "synonyms": [
+        "value",
+        "treasure"
+      ],
+      "antonyms": [
+        "disregard",
+        "undervalue"
+      ]
+    },
+    {
+      "word": "artifact",
+      "definition": "An object made or used by people in the past.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "archaeology",
+        "history",
+        "museum"
+      ],
+      "synonyms": [
+        "relic",
+        "historical object"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "astonish",
+      "definition": "To surprise someone very greatly.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "surprise",
+        "discovery",
+        "reaction"
+      ],
+      "synonyms": [
+        "amaze",
+        "astound"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "attempt",
+      "definition": "An effort to do or achieve something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "effort",
+        "challenge",
+        "goal"
+      ],
+      "synonyms": [
+        "effort",
+        "try"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "aware",
+      "definition": "Knowing about or noticing something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "attention",
+        "surroundings",
+        "knowledge"
+      ],
+      "synonyms": [
+        "conscious",
+        "informed"
+      ],
+      "antonyms": [
+        "unaware",
+        "oblivious"
+      ]
+    },
+    {
+      "word": "bargain",
+      "definition": "Something bought for less than its usual price.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "shopping",
+        "price",
+        "savings"
+      ],
+      "synonyms": [
+        "deal",
+        "good buy"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "benefit",
+      "definition": "Something helpful or good that improves a situation.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "health",
+        "advantage",
+        "well-being"
+      ],
+      "synonyms": [
+        "advantage",
+        "gain"
+      ],
+      "antonyms": [
+        "drawback",
+        "disadvantage"
+      ]
+    },
+    {
+      "word": "blizzard",
+      "definition": "A severe snowstorm with strong winds and low visibility.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "snow",
+        "weather",
+        "winter"
+      ],
+      "synonyms": [
+        "snowstorm",
+        "whiteout"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "boast",
+      "definition": "To speak with too much pride about your achievements or possessions.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "pride",
+        "achievement",
+        "attention"
+      ],
+      "synonyms": [
+        "brag",
+        "show off"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "boundary",
+      "definition": "A line that marks the edge of an area or the limit of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "property",
+        "map",
+        "limit"
+      ],
+      "synonyms": [
+        "border",
+        "limit"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "burden",
+      "definition": "Something difficult or heavy that a person must carry or deal with.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "weight",
+        "responsibility",
+        "difficulty"
+      ],
+      "synonyms": [
+        "load",
+        "hardship"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "calculate",
+      "definition": "To find an answer by using numbers or mathematical operations.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "numbers",
+        "arithmetic",
+        "measurement"
+      ],
+      "synonyms": [
+        "compute",
+        "figure out"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "cautious",
+      "definition": "Careful to avoid danger or mistakes.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "safety",
+        "risk",
+        "decision"
+      ],
+      "synonyms": [
+        "careful",
+        "wary"
+      ],
+      "antonyms": [
+        "careless",
+        "reckless"
+      ]
+    },
+    {
+      "word": "cease",
+      "definition": "To stop happening or doing something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "activity",
+        "ending",
+        "change"
+      ],
+      "synonyms": [
+        "stop",
+        "end"
+      ],
+      "antonyms": [
+        "begin",
+        "continue"
+      ]
+    },
+    {
+      "word": "challenge",
+      "definition": "A difficult task that tests someone's ability or determination.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "competition",
+        "effort",
+        "problem"
+      ],
+      "synonyms": [
+        "test",
+        "trial"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "cherish",
+      "definition": "To love or value someone or something very much.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "family",
+        "memory",
+        "affection"
+      ],
+      "synonyms": [
+        "treasure",
+        "value"
+      ],
+      "antonyms": [
+        "neglect",
+        "disregard"
+      ]
+    },
+    {
+      "word": "circumstance",
+      "definition": "A fact or condition that affects what happens in a situation.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "event",
+        "decision",
+        "situation"
+      ],
+      "synonyms": [
+        "condition",
+        "situation"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "clarify",
+      "definition": "To make something easier to understand.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "explanation",
+        "question",
+        "meaning"
+      ],
+      "synonyms": [
+        "explain",
+        "make clear"
+      ],
+      "antonyms": [
+        "confuse",
+        "obscure"
+      ]
+    },
+    {
+      "word": "collaborate",
+      "definition": "To work together with others toward a shared goal.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "team",
+        "project",
+        "cooperation"
+      ],
+      "synonyms": [
+        "cooperate",
+        "work together"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "combine",
+      "definition": "To join two or more things together.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "ingredients",
+        "mixture",
+        "parts"
+      ],
+      "synonyms": [
+        "join",
+        "unite"
+      ],
+      "antonyms": [
+        "separate",
+        "divide"
+      ]
+    },
+    {
+      "word": "communicate",
+      "definition": "To share information, thoughts, or feelings with someone.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "message",
+        "conversation",
+        "language"
+      ],
+      "synonyms": [
+        "convey",
+        "express"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "community",
+      "definition": "A group of people who live in the same area or share common interests.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "neighborhood",
+        "people",
+        "belonging"
+      ],
+      "synonyms": [
+        "neighborhood",
+        "society"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "compare",
+      "definition": "To look at two or more things to find similarities and differences.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "similarities",
+        "differences",
+        "objects"
+      ],
+      "synonyms": [
+        "contrast",
+        "examine"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "compassion",
+      "definition": "Concern for someone who is suffering, together with a desire to help.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "kindness",
+        "suffering",
+        "help"
+      ],
+      "synonyms": [
+        "sympathy",
+        "kindness"
+      ],
+      "antonyms": [
+        "cruelty",
+        "indifference"
+      ]
+    },
+    {
+      "word": "complex",
+      "definition": "Made of many connected parts or difficult to understand.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "puzzle",
+        "system",
+        "details"
+      ],
+      "synonyms": [
+        "complicated",
+        "intricate"
+      ],
+      "antonyms": [
+        "simple",
+        "straightforward"
+      ]
+    },
+    {
+      "word": "concentrate",
+      "definition": "To direct all your attention toward one thing.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "study",
+        "attention",
+        "task"
+      ],
+      "synonyms": [
+        "focus",
+        "pay attention"
+      ],
+      "antonyms": [
+        "distract"
+      ]
+    },
+    {
+      "word": "conclude",
+      "definition": "To bring a discussion, story, or event to an end.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "discussion",
+        "story",
+        "ending"
+      ],
+      "synonyms": [
+        "finish",
+        "end"
+      ],
+      "antonyms": [
+        "begin",
+        "start"
+      ]
+    },
+    {
+      "word": "conflict",
+      "definition": "A serious disagreement or struggle between people or ideas.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "argument",
+        "disagreement",
+        "opposition"
+      ],
+      "synonyms": [
+        "dispute",
+        "clash"
+      ],
+      "antonyms": [
+        "agreement",
+        "harmony"
+      ]
+    },
+    {
+      "word": "consequence",
+      "definition": "Something that happens as a result of an action or decision.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "choice",
+        "action",
+        "result"
+      ],
+      "synonyms": [
+        "result",
+        "effect"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "conserve",
+      "definition": "To use something carefully so it is not wasted.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "water",
+        "energy",
+        "resources"
+      ],
+      "synonyms": [
+        "save",
+        "preserve"
+      ],
+      "antonyms": [
+        "waste",
+        "squander"
+      ]
+    },
+    {
+      "word": "constant",
+      "definition": "Happening all the time or staying the same.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "routine",
+        "change",
+        "frequency"
+      ],
+      "synonyms": [
+        "continual",
+        "steady"
+      ],
+      "antonyms": [
+        "occasional",
+        "irregular"
+      ]
+    },
+    {
+      "word": "contribute",
+      "definition": "To give something or do something to help a shared effort.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "team",
+        "donation",
+        "project"
+      ],
+      "synonyms": [
+        "give",
+        "provide"
+      ],
+      "antonyms": [
+        "withhold"
+      ]
+    },
+    {
+      "word": "courageous",
+      "definition": "Willing to face danger or difficulty despite fear.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "bravery",
+        "risk",
+        "challenge"
+      ],
+      "synonyms": [
+        "brave",
+        "fearless"
+      ],
+      "antonyms": [
+        "cowardly",
+        "timid"
+      ]
+    },
+    {
+      "word": "crucial",
+      "definition": "Extremely important to the success or result of something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "decision",
+        "success",
+        "importance"
+      ],
+      "synonyms": [
+        "essential",
+        "vital"
+      ],
+      "antonyms": [
+        "unimportant",
+        "trivial"
+      ]
+    },
+    {
+      "word": "curious",
+      "definition": "Eager to learn or find out about something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "questions",
+        "discovery",
+        "interest"
+      ],
+      "synonyms": [
+        "inquisitive",
+        "interested"
+      ],
+      "antonyms": [
+        "uninterested",
+        "indifferent"
+      ]
+    },
+    {
+      "word": "debate",
+      "definition": "An organized discussion in which people present different opinions.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "argument",
+        "public speaking",
+        "issues"
+      ],
+      "synonyms": [
+        "discussion",
+        "argument"
+      ],
+      "antonyms": [
+        "agreement"
+      ]
+    },
+    {
+      "word": "deceive",
+      "definition": "To make someone believe something that is not true.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "trick",
+        "lie",
+        "trust"
+      ],
+      "synonyms": [
+        "mislead",
+        "trick"
+      ],
+      "antonyms": [
+        "inform",
+        "be honest with"
+      ]
+    },
+    {
+      "word": "decline",
+      "definition": "A gradual decrease in size, strength, or number.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "population",
+        "numbers",
+        "change"
+      ],
+      "synonyms": [
+        "decrease",
+        "downturn"
+      ],
+      "antonyms": [
+        "increase",
+        "rise"
+      ]
+    },
+    {
+      "word": "dedicate",
+      "definition": "To give time or effort to a particular task or purpose.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "practice",
+        "commitment",
+        "goal"
+      ],
+      "synonyms": [
+        "devote",
+        "commit"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "demonstrate",
+      "definition": "To show how something works or make an idea clear using examples.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "experiment",
+        "example",
+        "lesson"
+      ],
+      "synonyms": [
+        "show",
+        "illustrate"
+      ],
+      "antonyms": [
+        "conceal",
+        "hide"
+      ]
+    },
+    {
+      "word": "depend",
+      "definition": "To need or rely on someone or something for support.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "trust",
+        "help",
+        "support"
+      ],
+      "synonyms": [
+        "rely",
+        "count on"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "determine",
+      "definition": "To find something out by checking evidence or facts.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "evidence",
+        "investigation",
+        "conclusion"
+      ],
+      "synonyms": [
+        "establish",
+        "ascertain"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "develop",
+      "definition": "To grow or change over time, or to make something more advanced.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "growth",
+        "skills",
+        "progress"
+      ],
+      "synonyms": [
+        "grow",
+        "advance"
+      ],
+      "antonyms": [
+        "decline",
+        "deteriorate"
+      ]
+    },
+    {
+      "word": "diminish",
+      "definition": "To make or become smaller or less important.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "amount",
+        "influence",
+        "reduction"
+      ],
+      "synonyms": [
+        "decrease",
+        "reduce"
+      ],
+      "antonyms": [
+        "increase",
+        "expand"
+      ]
+    },
+    {
+      "word": "disaster",
+      "definition": "An event that causes great damage or suffering.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "storm",
+        "damage",
+        "emergency"
+      ],
+      "synonyms": [
+        "catastrophe",
+        "calamity"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "discover",
+      "definition": "To find something or learn about it for the first time.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "exploration",
+        "science",
+        "surprise"
+      ],
+      "synonyms": [
+        "find",
+        "uncover"
+      ],
+      "antonyms": [
+        "lose",
+        "overlook"
+      ]
+    },
+    {
+      "word": "distinguish",
+      "definition": "To recognize the difference between two or more things.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "differences",
+        "features",
+        "comparison"
+      ],
+      "synonyms": [
+        "differentiate",
+        "tell apart"
+      ],
+      "antonyms": [
+        "confuse"
+      ]
+    },
+    {
+      "word": "distribute",
+      "definition": "To give or deliver things to several people or places.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "supplies",
+        "delivery",
+        "sharing"
+      ],
+      "synonyms": [
+        "hand out",
+        "dispense"
+      ],
+      "antonyms": [
+        "collect",
+        "gather"
+      ]
+    },
+    {
+      "word": "diversity",
+      "definition": "The presence of many different types of people or things.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "variety",
+        "community",
+        "differences"
+      ],
+      "synonyms": [
+        "variety",
+        "range"
+      ],
+      "antonyms": [
+        "uniformity",
+        "sameness"
+      ]
+    },
+    {
+      "word": "durable",
+      "definition": "Able to last a long time without breaking or wearing out.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "materials",
+        "construction",
+        "strength"
+      ],
+      "synonyms": [
+        "sturdy",
+        "long-lasting"
+      ],
+      "antonyms": [
+        "fragile",
+        "flimsy"
+      ]
+    },
+    {
+      "word": "eager",
+      "definition": "Very excited and ready to do or get something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "anticipation",
+        "interest",
+        "activity"
+      ],
+      "synonyms": [
+        "enthusiastic",
+        "keen"
+      ],
+      "antonyms": [
+        "reluctant",
+        "unwilling"
+      ]
+    },
+    {
+      "word": "ecosystem",
+      "definition": "A community of living things and their physical environment working together.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "habitat",
+        "plants",
+        "animals"
+      ],
+      "synonyms": [
+        "ecological system",
+        "natural system"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "elaborate",
+      "definition": "Containing many careful details or parts.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "design",
+        "decoration",
+        "details"
+      ],
+      "synonyms": [
+        "detailed",
+        "intricate"
+      ],
+      "antonyms": [
+        "simple",
+        "plain"
+      ]
+    },
+    {
+      "word": "eliminate",
+      "definition": "To remove or get rid of something completely.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "problem",
+        "choices",
+        "removal"
+      ],
+      "synonyms": [
+        "remove",
+        "erase"
+      ],
+      "antonyms": [
+        "add",
+        "include"
+      ]
+    },
+    {
+      "word": "emerge",
+      "definition": "To come out of something or become visible.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "sunrise",
+        "water",
+        "discovery"
+      ],
+      "synonyms": [
+        "appear",
+        "come out"
+      ],
+      "antonyms": [
+        "disappear",
+        "submerge"
+      ]
+    },
+    {
+      "word": "emphasize",
+      "definition": "To give special attention or importance to something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "speech",
+        "lesson",
+        "importance"
+      ],
+      "synonyms": [
+        "stress",
+        "highlight"
+      ],
+      "antonyms": [
+        "downplay",
+        "minimize"
+      ]
+    },
+    {
+      "word": "encounter",
+      "definition": "An unexpected meeting or experience.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "journey",
+        "meeting",
+        "surprise"
+      ],
+      "synonyms": [
+        "meeting",
+        "run-in"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "endure",
+      "definition": "To continue through something difficult without giving up.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "hardship",
+        "patience",
+        "effort"
+      ],
+      "synonyms": [
+        "withstand",
+        "persevere"
+      ],
+      "antonyms": [
+        "quit",
+        "surrender"
+      ]
+    },
+    {
+      "word": "enormous",
+      "definition": "Extremely large in size or amount.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "measurement",
+        "scale"
+      ],
+      "synonyms": [
+        "huge",
+        "immense"
+      ],
+      "antonyms": [
+        "tiny",
+        "small"
+      ]
+    },
+    {
+      "word": "essential",
+      "definition": "Absolutely necessary or extremely important.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "survival",
+        "supplies",
+        "needs"
+      ],
+      "synonyms": [
+        "necessary",
+        "vital"
+      ],
+      "antonyms": [
+        "unnecessary",
+        "optional"
+      ]
+    },
+    {
+      "word": "estimate",
+      "definition": "A reasonable guess about a number or amount based on available information.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "measurement",
+        "quantity",
+        "calculation"
+      ],
+      "synonyms": [
+        "approximation",
+        "rough guess"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "evidence",
+      "definition": "Facts or information that help show whether something is true.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "investigation",
+        "clues",
+        "proof"
+      ],
+      "synonyms": [
+        "proof",
+        "support"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "exaggerate",
+      "definition": "To describe something as larger, better, or worse than it really is.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "story",
+        "details",
+        "truth"
+      ],
+      "synonyms": [
+        "overstate",
+        "embellish"
+      ],
+      "antonyms": [
+        "understate",
+        "downplay"
+      ]
+    },
+    {
+      "word": "expand",
+      "definition": "To become larger or make something larger.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "growth",
+        "space",
+        "development"
+      ],
+      "synonyms": [
+        "enlarge",
+        "extend"
+      ],
+      "antonyms": [
+        "shrink",
+        "contract"
+      ]
+    },
+    {
+      "word": "experiment",
+      "definition": "A test carried out to find out whether an idea is correct.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "science",
+        "hypothesis",
+        "results"
+      ],
+      "synonyms": [
+        "test",
+        "trial"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "familiar",
+      "definition": "Known or recognized because of earlier experience.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "memory",
+        "recognition",
+        "place"
+      ],
+      "synonyms": [
+        "well-known",
+        "recognizable"
+      ],
+      "antonyms": [
+        "unfamiliar",
+        "strange"
+      ]
+    },
+    {
+      "word": "flexible",
+      "definition": "Able to bend easily or change to fit new situations.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "movement",
+        "plans",
+        "materials"
+      ],
+      "synonyms": [
+        "bendable",
+        "adaptable"
+      ],
+      "antonyms": [
+        "rigid",
+        "inflexible"
+      ]
+    },
+    {
+      "word": "flourish",
+      "definition": "To grow or do especially well.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "garden",
+        "success",
+        "health"
+      ],
+      "synonyms": [
+        "thrive",
+        "prosper"
+      ],
+      "antonyms": [
+        "struggle",
+        "wither"
+      ]
+    },
+    {
+      "word": "focus",
+      "definition": "The main subject or center of attention.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "study",
+        "attention",
+        "task"
+      ],
+      "synonyms": [
+        "center",
+        "emphasis"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "fossil",
+      "definition": "The preserved remains or traces of a plant or animal from long ago.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "rock",
+        "dinosaur",
+        "history"
+      ],
+      "synonyms": [
+        "remains",
+        "trace"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "fragile",
+      "definition": "Easily broken or damaged.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "glass",
+        "care",
+        "package"
+      ],
+      "synonyms": [
+        "delicate",
+        "breakable"
+      ],
+      "antonyms": [
+        "durable",
+        "sturdy"
+      ]
+    },
+    {
+      "word": "frequent",
+      "definition": "Happening often or many times.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "visits",
+        "events",
+        "routine"
+      ],
+      "synonyms": [
+        "common",
+        "repeated"
+      ],
+      "antonyms": [
+        "rare",
+        "infrequent"
+      ]
+    },
+    {
+      "word": "generous",
+      "definition": "Willing to give or share more than is necessary or expected.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "charity",
+        "gifts",
+        "kindness"
+      ],
+      "synonyms": [
+        "giving",
+        "unselfish"
+      ],
+      "antonyms": [
+        "selfish",
+        "stingy"
+      ]
+    },
+    {
+      "word": "genuine",
+      "definition": "Real and not fake or copied.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "object",
+        "authenticity",
+        "trust"
+      ],
+      "synonyms": [
+        "authentic",
+        "real"
+      ],
+      "antonyms": [
+        "fake",
+        "artificial"
+      ]
+    },
+    {
+      "word": "gloomy",
+      "definition": "Dark or lacking cheerfulness.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weather",
+        "mood",
+        "clouds"
+      ],
+      "synonyms": [
+        "dreary",
+        "sad"
+      ],
+      "antonyms": [
+        "cheerful",
+        "bright"
+      ]
+    },
+    {
+      "word": "gratitude",
+      "definition": "A feeling of thankfulness for something received.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "kindness",
+        "gift",
+        "appreciation"
+      ],
+      "synonyms": [
+        "thankfulness",
+        "appreciation"
+      ],
+      "antonyms": [
+        "ingratitude"
+      ]
+    },
+    {
+      "word": "guarantee",
+      "definition": "A promise that something will happen or work as expected.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "promise",
+        "product",
+        "assurance"
+      ],
+      "synonyms": [
+        "promise",
+        "assurance"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "hesitate",
+      "definition": "To pause before doing something because of uncertainty or fear.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "decision",
+        "doubt",
+        "action"
+      ],
+      "synonyms": [
+        "pause",
+        "waver"
+      ],
+      "antonyms": [
+        "proceed",
+        "act"
+      ]
+    },
+    {
+      "word": "historic",
+      "definition": "Important enough to be remembered as part of history.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "event",
+        "discovery",
+        "past"
+      ],
+      "synonyms": [
+        "momentous",
+        "significant"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "horizon",
+      "definition": "The line where the sky seems to meet the land or sea.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "sky",
+        "distance",
+        "sunrise"
+      ],
+      "synonyms": [
+        "skyline"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "hostile",
+      "definition": "Unfriendly or threatening.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "enemy",
+        "attitude",
+        "conflict"
+      ],
+      "synonyms": [
+        "unfriendly",
+        "aggressive"
+      ],
+      "antonyms": [
+        "friendly",
+        "welcoming"
+      ]
+    },
+    {
+      "word": "humble",
+      "definition": "Not thinking you are more important or better than other people.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "modesty",
+        "achievement",
+        "character"
+      ],
+      "synonyms": [
+        "modest",
+        "unassuming"
+      ],
+      "antonyms": [
+        "arrogant",
+        "boastful"
+      ]
+    },
+    {
+      "word": "identify",
+      "definition": "To recognize or name a person, object, or idea.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "clues",
+        "names",
+        "recognition"
+      ],
+      "synonyms": [
+        "recognize",
+        "name"
+      ],
+      "antonyms": [
+        "misidentify"
+      ]
+    },
+    {
+      "word": "illustrate",
+      "definition": "To explain something using pictures or examples.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "drawing",
+        "story",
+        "example"
+      ],
+      "synonyms": [
+        "show",
+        "demonstrate"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "immediate",
+      "definition": "Happening now or without delay.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "response",
+        "action",
+        "urgency"
+      ],
+      "synonyms": [
+        "instant",
+        "prompt"
+      ],
+      "antonyms": [
+        "delayed",
+        "postponed"
+      ]
+    },
+    {
+      "word": "impact",
+      "definition": "A strong effect or influence on something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "change",
+        "results",
+        "events"
+      ],
+      "synonyms": [
+        "effect",
+        "influence"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "improve",
+      "definition": "To make something better or become better.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "practice",
+        "learning",
+        "progress"
+      ],
+      "synonyms": [
+        "enhance",
+        "better"
+      ],
+      "antonyms": [
+        "worsen",
+        "damage"
+      ]
+    },
+    {
+      "word": "include",
+      "definition": "To make someone or something part of a group or whole.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "team",
+        "group",
+        "membership"
+      ],
+      "synonyms": [
+        "contain",
+        "incorporate"
+      ],
+      "antonyms": [
+        "exclude",
+        "omit"
+      ]
+    },
+    {
+      "word": "influence",
+      "definition": "The power to affect how someone thinks or how something happens.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "friends",
+        "decisions",
+        "behavior"
+      ],
+      "synonyms": [
+        "effect",
+        "sway"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "inspect",
+      "definition": "To look at something carefully to check its condition or details.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "safety",
+        "examination",
+        "quality"
+      ],
+      "synonyms": [
+        "examine",
+        "check"
+      ],
+      "antonyms": [
+        "overlook",
+        "ignore"
+      ]
+    },
+    {
+      "word": "inspire",
+      "definition": "To make someone want to do something creative, useful, or good.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "example",
+        "achievement",
+        "motivation"
+      ],
+      "synonyms": [
+        "motivate",
+        "encourage"
+      ],
+      "antonyms": [
+        "discourage",
+        "dishearten"
+      ]
+    },
+    {
+      "word": "intricate",
+      "definition": "Having many small, carefully connected parts or details.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "pattern",
+        "design",
+        "puzzle"
+      ],
+      "synonyms": [
+        "complex",
+        "detailed"
+      ],
+      "antonyms": [
+        "simple",
+        "plain"
+      ]
+    },
+    {
+      "word": "investigate",
+      "definition": "To examine facts closely in order to discover what happened or why.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "mystery",
+        "clues",
+        "research"
+      ],
+      "synonyms": [
+        "examine",
+        "explore"
+      ],
+      "antonyms": [
+        "ignore",
+        "overlook"
+      ]
+    },
+    {
+      "word": "journal",
+      "definition": "A notebook used to record daily events, thoughts, or observations.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "writing",
+        "memories",
+        "notebook"
+      ],
+      "synonyms": [
+        "diary",
+        "log"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "keen",
+      "definition": "Very interested or eager to do something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "interest",
+        "learning",
+        "enthusiasm"
+      ],
+      "synonyms": [
+        "eager",
+        "enthusiastic"
+      ],
+      "antonyms": [
+        "indifferent",
+        "uninterested"
+      ]
+    },
+    {
+      "word": "landmark",
+      "definition": "An important or easily recognized place or object used to identify a location.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "map",
+        "directions",
+        "history"
+      ],
+      "synonyms": [
+        "marker",
+        "reference point"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "landscape",
+      "definition": "The visible features of an area of land.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "mountains",
+        "fields",
+        "scenery"
+      ],
+      "synonyms": [
+        "scenery",
+        "terrain"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "maintain",
+      "definition": "To keep something in good condition or at the same level.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "equipment",
+        "care",
+        "routine"
+      ],
+      "synonyms": [
+        "preserve",
+        "upkeep"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandon"
+      ]
+    },
+    {
+      "word": "mature",
+      "definition": "Fully grown or developed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "growth",
+        "age",
+        "development"
+      ],
+      "synonyms": [
+        "adult",
+        "developed"
+      ],
+      "antonyms": [
+        "immature",
+        "undeveloped"
+      ]
+    },
+    {
+      "word": "migrate",
+      "definition": "To move from one region to another, often with the seasons.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "birds",
+        "journey",
+        "seasons"
+      ],
+      "synonyms": [
+        "move",
+        "relocate"
+      ],
+      "antonyms": [
+        "remain",
+        "stay"
+      ]
+    },
+    {
+      "word": "modify",
+      "definition": "To make small changes to something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "plans",
+        "design",
+        "adjustment"
+      ],
+      "synonyms": [
+        "alter",
+        "adjust"
+      ],
+      "antonyms": [
+        "preserve",
+        "keep"
+      ]
+    },
+    {
+      "word": "motivate",
+      "definition": "To give someone a reason or desire to act.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "goal",
+        "effort",
+        "encouragement"
+      ],
+      "synonyms": [
+        "inspire",
+        "encourage"
+      ],
+      "antonyms": [
+        "discourage",
+        "deter"
+      ]
+    },
+    {
+      "word": "narrative",
+      "definition": "A spoken or written account of a series of events.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "story",
+        "events",
+        "writing"
+      ],
+      "synonyms": [
+        "story",
+        "account"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "notable",
+      "definition": "Worthy of attention because of being unusual or important.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "achievement",
+        "history",
+        "recognition"
+      ],
+      "synonyms": [
+        "remarkable",
+        "noteworthy"
+      ],
+      "antonyms": [
+        "unremarkable",
+        "ordinary"
+      ]
+    },
+    {
+      "word": "nourish",
+      "definition": "To provide the food or care needed for growth and health.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "nutrition",
+        "plants",
+        "growth"
+      ],
+      "synonyms": [
+        "feed",
+        "sustain"
+      ],
+      "antonyms": [
+        "starve",
+        "deprive"
+      ]
+    },
+    {
+      "word": "obstacle",
+      "definition": "Something that blocks a path or makes progress difficult.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "path",
+        "challenge",
+        "progress"
+      ],
+      "synonyms": [
+        "barrier",
+        "hindrance"
+      ],
+      "antonyms": [
+        "aid",
+        "assistance"
+      ]
+    },
+    {
+      "word": "optimistic",
+      "definition": "Expecting good things to happen in the future.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "hope",
+        "attitude",
+        "future"
+      ],
+      "synonyms": [
+        "hopeful",
+        "positive"
+      ],
+      "antonyms": [
+        "pessimistic",
+        "gloomy"
+      ]
+    },
+    {
+      "word": "organism",
+      "definition": "An individual living thing, such as a plant, animal, or fungus.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "biology",
+        "life",
+        "environment"
+      ],
+      "synonyms": [
+        "living thing",
+        "creature"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "organize",
+      "definition": "To arrange things in a planned and orderly way.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "schedule",
+        "materials",
+        "planning"
+      ],
+      "synonyms": [
+        "arrange",
+        "sort"
+      ],
+      "antonyms": [
+        "disorganize",
+        "scatter"
+      ]
+    },
+    {
+      "word": "participate",
+      "definition": "To take part in an activity or event.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "team",
+        "game",
+        "involvement"
+      ],
+      "synonyms": [
+        "join",
+        "engage"
+      ],
+      "antonyms": [
+        "withdraw",
+        "abstain"
+      ]
+    },
+    {
+      "word": "pattern",
+      "definition": "A design or arrangement that repeats in a predictable way.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "shapes",
+        "numbers",
+        "design"
+      ],
+      "synonyms": [
+        "design",
+        "sequence"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "persevere",
+      "definition": "To keep trying even when something is difficult.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "challenge",
+        "determination",
+        "effort"
+      ],
+      "synonyms": [
+        "persist",
+        "endure"
+      ],
+      "antonyms": [
+        "quit",
+        "give up"
+      ]
+    },
+    {
+      "word": "perspective",
+      "definition": "A particular way of thinking about or looking at a situation.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "viewpoint",
+        "experience",
+        "opinion"
+      ],
+      "synonyms": [
+        "viewpoint",
+        "outlook"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "persuade",
+      "definition": "To convince someone to do or believe something by giving reasons.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "argument",
+        "opinion",
+        "reason"
+      ],
+      "synonyms": [
+        "convince",
+        "influence"
+      ],
+      "antonyms": [
+        "dissuade",
+        "discourage"
+      ]
+    },
+    {
+      "word": "practical",
+      "definition": "Useful and sensible in real situations.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "solution",
+        "tools",
+        "decision"
+      ],
+      "synonyms": [
+        "sensible",
+        "useful"
+      ],
+      "antonyms": [
+        "impractical",
+        "unrealistic"
+      ]
+    },
+    {
+      "word": "preserve",
+      "definition": "To keep something safe or in good condition.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "history",
+        "nature",
+        "protection"
+      ],
+      "synonyms": [
+        "protect",
+        "conserve"
+      ],
+      "antonyms": [
+        "destroy",
+        "damage"
+      ]
+    },
+    {
+      "word": "proceed",
+      "definition": "To continue with an action or move forward.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "instructions",
+        "progress",
+        "journey"
+      ],
+      "synonyms": [
+        "continue",
+        "advance"
+      ],
+      "antonyms": [
+        "stop",
+        "halt"
+      ]
+    },
+    {
+      "word": "prohibit",
+      "definition": "To officially forbid something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "rule",
+        "law",
+        "restriction"
+      ],
+      "synonyms": [
+        "ban",
+        "forbid"
+      ],
+      "antonyms": [
+        "allow",
+        "permit"
+      ]
+    },
+    {
+      "word": "promote",
+      "definition": "To help something grow, develop, or become more widely known.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "advertising",
+        "cause",
+        "development"
+      ],
+      "synonyms": [
+        "encourage",
+        "support"
+      ],
+      "antonyms": [
+        "discourage",
+        "hinder"
+      ]
+    },
+    {
+      "word": "qualify",
+      "definition": "To meet the requirements needed for something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "competition",
+        "skills",
+        "requirements"
+      ],
+      "synonyms": [
+        "be eligible",
+        "meet requirements"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "recommend",
+      "definition": "To suggest someone or something as a good choice.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "advice",
+        "choice",
+        "review"
+      ],
+      "synonyms": [
+        "suggest",
+        "endorse"
+      ],
+      "antonyms": [
+        "discourage",
+        "advise against"
+      ]
+    },
+    {
+      "word": "recover",
+      "definition": "To return to a normal or healthy condition after a problem or illness.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "rest",
+        "health",
+        "strength"
+      ],
+      "synonyms": [
+        "heal",
+        "improve"
+      ],
+      "antonyms": [
+        "decline",
+        "worsen"
+      ]
+    },
+    {
+      "word": "reflect",
+      "definition": "To think carefully about something that happened or about your own ideas.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "memory",
+        "thought",
+        "experience"
+      ],
+      "synonyms": [
+        "consider",
+        "ponder"
+      ],
+      "antonyms": [
+        "ignore",
+        "disregard"
+      ]
+    },
+    {
+      "word": "reluctant",
+      "definition": "Not willing or eager to do something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "hesitation",
+        "decision",
+        "doubt"
+      ],
+      "synonyms": [
+        "unwilling",
+        "hesitant"
+      ],
+      "antonyms": [
+        "eager",
+        "willing"
+      ]
+    },
+    {
+      "word": "remarkable",
+      "definition": "Unusual or impressive enough to deserve attention.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "achievement",
+        "talent",
+        "discovery"
+      ],
+      "synonyms": [
+        "extraordinary",
+        "notable"
+      ],
+      "antonyms": [
+        "ordinary",
+        "unremarkable"
+      ]
+    },
+    {
+      "word": "resolve",
+      "definition": "To find a solution to a problem or settle a disagreement.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "problem",
+        "conflict",
+        "agreement"
+      ],
+      "synonyms": [
+        "solve",
+        "settle"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "resource",
+      "definition": "A material or source of help that can be used to meet a need.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "supplies",
+        "needs",
+        "environment"
+      ],
+      "synonyms": [
+        "asset",
+        "supply"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "restore",
+      "definition": "To bring something back to its earlier condition.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "repair",
+        "history",
+        "building"
+      ],
+      "synonyms": [
+        "repair",
+        "renew"
+      ],
+      "antonyms": [
+        "damage",
+        "destroy"
+      ]
+    },
+    {
+      "word": "restrict",
+      "definition": "To set limits on what someone or something can do.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "rules",
+        "access",
+        "limits"
+      ],
+      "synonyms": [
+        "limit",
+        "control"
+      ],
+      "antonyms": [
+        "allow",
+        "free"
+      ]
+    },
+    {
+      "word": "scarce",
+      "definition": "Available only in small amounts; not easy to find.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "resources",
+        "supply",
+        "shortage"
+      ],
+      "synonyms": [
+        "limited",
+        "rare"
+      ],
+      "antonyms": [
+        "abundant",
+        "plentiful"
+      ]
+    },
+    {
+      "word": "significant",
+      "definition": "Large or important enough to be noticed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "event",
+        "effect",
+        "importance"
+      ],
+      "synonyms": [
+        "important",
+        "meaningful"
+      ],
+      "antonyms": [
+        "minor",
+        "trivial"
+      ]
+    },
+    {
+      "word": "sincere",
+      "definition": "Honest about what you think or feel.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "apology",
+        "friendship",
+        "honesty"
+      ],
+      "synonyms": [
+        "genuine",
+        "heartfelt"
+      ],
+      "antonyms": [
+        "insincere",
+        "dishonest"
+      ]
+    },
+    {
+      "word": "strategy",
+      "definition": "A plan designed to reach a particular goal.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "game",
+        "planning",
+        "goal"
+      ],
+      "synonyms": [
+        "plan",
+        "approach"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "sturdy",
+      "definition": "Strong and unlikely to break or fall.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "construction",
+        "wood",
+        "materials"
+      ],
+      "synonyms": [
+        "strong",
+        "durable"
+      ],
+      "antonyms": [
+        "weak",
+        "flimsy"
+      ]
+    },
+    {
+      "word": "temporary",
+      "definition": "Lasting for only a limited time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "work",
+        "change",
+        "short term"
+      ],
+      "synonyms": [
+        "short-term",
+        "brief"
+      ],
+      "antonyms": [
+        "permanent",
+        "lasting"
+      ]
+    },
+    {
+      "word": "territory",
+      "definition": "An area of land that belongs to or is controlled by a person, animal, or group.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "habitat",
+        "boundary",
+        "land"
+      ],
+      "synonyms": [
+        "region",
+        "area"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "unique",
+      "definition": "Being the only one of its kind; unlike anything else.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "difference",
+        "design",
+        "identity"
+      ],
+      "synonyms": [
+        "one-of-a-kind",
+        "distinct"
+      ],
+      "antonyms": [
+        "common",
+        "ordinary"
+      ]
+    },
+    {
+      "word": "valuable",
+      "definition": "Worth a great deal or very useful or important.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "money",
+        "help",
+        "importance"
+      ],
+      "synonyms": [
+        "precious",
+        "worthwhile"
+      ],
+      "antonyms": [
+        "worthless",
+        "useless"
+      ]
+    },
+    {
+      "word": "weary",
+      "definition": "Very tired, especially after a long period of effort.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "fatigue",
+        "rest",
+        "work"
+      ],
+      "synonyms": [
+        "tired",
+        "exhausted"
+      ],
+      "antonyms": [
+        "energetic",
+        "refreshed"
+      ]
+    },
+    {
+      "word": "yield",
+      "definition": "To produce or provide something, such as a crop or result.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "harvest",
+        "crop",
+        "result"
+      ],
+      "synonyms": [
+        "produce",
+        "provide"
+      ],
+      "antonyms": []
+    }
+  ]
+}

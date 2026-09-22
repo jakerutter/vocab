@@ -1,0 +1,172 @@
+using System;
+using System.Collections.Generic;
+
+public sealed class Grade6 : VocabularyGrade
+{
+    public static readonly Grade6 Instance = new Grade6();
+
+    private Grade6() : base(new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+    {
+        ["ability"] = "The power or skill to do something.",
+        ["absorb"] = "To take in or soak up a substance, energy, or information.",
+        ["accuse"] = "To charge someone with doing something wrong or illegal.",
+        ["act"] = "To do something; to take action.",
+        ["active"] = "Engaged in action or activity.",
+        ["actual"] = "Existing in fact; real.",
+        ["adopt"] = "To take up, accept, or begin to use something.",
+        ["advantage"] = "A condition or circumstance that puts someone in a favorable position.",
+        ["advice"] = "Guidance or recommendations about what someone should do.",
+        ["ambition"] = "A strong desire to achieve or accomplish something.",
+        ["ancient"] = "Belonging to the very distant past.",
+        ["approach"] = "To come near or nearer to something or someone.",
+        ["arrange"] = "To put things in a particular order or position.",
+        ["arctic"] = "Relating to the region around the North Pole.",
+        ["attitude"] = "A way of thinking or feeling about someone or something.",
+        ["attract"] = "To cause someone or something to come nearer or become interested.",
+        ["average"] = "A number obtained by adding several amounts and dividing by the number of amounts.",
+        ["avoid"] = "To keep away from or prevent something from happening.",
+
+        ["bold"] = "Showing courage and a willingness to take risks.",
+        ["border"] = "A line separating two areas, regions, or countries.",
+        ["brief"] = "Short in time or length.",
+        ["brilliant"] = "Exceptionally clever, talented, or impressive.",
+
+        ["cable"] = "A thick rope or a bundle of wires used to carry electricity or signals.",
+        ["capture"] = "To catch and take control of someone or something.",
+        ["certain"] = "Known for sure; definite.",
+        ["chill"] = "A feeling of coldness.",
+        ["clever"] = "Quick to understand, learn, or think of things.",
+        ["climate"] = "The usual weather conditions of a place over a long period.",
+        ["cling"] = "To hold tightly to something.",
+        ["coast"] = "The land along the edge of a sea or ocean.",
+        ["confess"] = "To admit that one has done something wrong.",
+        ["consider"] = "To think carefully about something.",
+        ["contain"] = "To have or hold something within.",
+        ["continent"] = "One of Earth's large continuous areas of land.",
+        ["convince"] = "To cause someone to believe that something is true.",
+        ["coward"] = "A person who lacks courage.",
+        ["crew"] = "A group of people who work together, especially on a ship, aircraft, or other vehicle.",
+        ["crumple"] = "To crush or press something so that it becomes wrinkled or folded.",
+        ["custom"] = "A traditional or usual way of behaving or doing something.",
+
+        ["decay"] = "To gradually rot or become damaged.",
+        ["deed"] = "An action that is performed intentionally.",
+        ["defend"] = "To protect someone or something from attack or harm.",
+        ["delicate"] = "Easily damaged, broken, or injured.",
+        ["device"] = "A tool or piece of equipment made for a particular purpose.",
+        ["diagram"] = "A drawing that explains the parts or workings of something.",
+        ["digest"] = "To break down food in the body so it can be absorbed.",
+        ["disease"] = "An illness or condition that prevents the body from functioning normally.",
+        ["distant"] = "Far away in space or time.",
+        ["doze"] = "To sleep lightly for a short time.",
+        ["drift"] = "To be carried slowly by air, water, or another force.",
+
+        ["elegant"] = "Graceful and attractive in appearance or manner.",
+        ["enable"] = "To make it possible for someone or something to do something.",
+        ["examine"] = "To inspect or study something carefully.",
+        ["explore"] = "To travel through or investigate a place or subject in order to learn about it.",
+
+        ["fan"] = "A device with rotating blades that creates a current of air.",
+        ["fatal"] = "Causing or resulting in death.",
+        ["fierce"] = "Strong, violent, aggressive, or intense.",
+        ["flutter"] = "To move quickly and lightly back and forth or up and down.",
+        ["fortunate"] = "Having or bringing good luck.",
+        ["frail"] = "Weak and easily damaged or injured.",
+
+        ["gasp"] = "To take a sudden, short breath, especially from surprise or difficulty breathing.",
+        ["glide"] = "To move smoothly and continuously.",
+        ["globe"] = "A round model of Earth or another planet.",
+        ["grace"] = "Smoothness and elegance of movement or manner.",
+        ["gradual"] = "Happening or changing slowly over time.",
+        ["grasp"] = "To take and hold something firmly.",
+
+        ["habit"] = "A regular behavior or practice that is difficult to stop.",
+        ["harsh"] = "Unpleasantly rough, severe, or cruel.",
+        ["imitate"] = "To copy the actions, appearance, or behavior of someone or something.",
+        ["individual"] = "A single person or thing considered separately from a group.",
+        ["intelligent"] = "Having or showing an ability to learn, understand, and think.",
+        ["intend"] = "To plan or mean to do something.",
+
+        ["journey"] = "An act of traveling from one place to another.",
+
+        ["launch"] = "To start or set something in motion.",
+        ["limit"] = "A point or boundary beyond which something cannot or may not go.",
+        ["locate"] = "To find or discover the exact position of something.",
+        ["loyal"] = "Showing firm and constant support or allegiance to a person, group, or cause.",
+
+        ["magnificent"] = "Extremely beautiful, impressive, or grand.",
+        ["marsh"] = "An area of low-lying land that is often wet and covered with grasses or reeds.",
+        ["method"] = "A particular way of doing something, especially an organized or systematic way.",
+        ["misery"] = "A state of great unhappiness, suffering, or distress.",
+        ["moisture"] = "A small amount of water or other liquid present in the air or on a surface.",
+        ["mural"] = "A large painting or other work of art made directly on a wall or ceiling.",
+        ["mystify"] = "To confuse or puzzle someone by making something difficult to understand.",
+
+        ["nation"] = "A large group of people living in a particular country under one government.",
+        ["nectar"] = "A sweet liquid produced by flowers that attracts insects and birds.",
+        ["nursery"] = "A place where young children are cared for or where young plants are grown.",
+
+        ["observe"] = "To watch carefully, especially in order to learn something.",
+        ["opponent"] = "A person who competes against or disagrees with another person.",
+        ["opposite"] = "Completely different from something else or situated on the other side.",
+        ["ordeal"] = "A painful, difficult, or frightening experience.",
+        ["origin"] = "The point or place where something begins, arises, or is derived.",
+        ["outcome"] = "The result or effect of an action, event, or situation.",
+
+        ["passage"] = "A section of a written work or a way through or along which someone may travel.",
+        ["pastime"] = "An activity that someone does regularly for enjoyment rather than work.",
+        ["pause"] = "A temporary stop or break in an action or activity.",
+        ["perform"] = "To carry out an action, task, or duty, or to entertain an audience.",
+        ["plunge"] = "To jump, fall, or move suddenly and quickly into something.",
+        ["predator"] = "An animal that hunts, kills, and eats other animals.",
+        ["predict"] = "To say or estimate that something will happen in the future.",
+        ["prevent"] = "To stop something from happening or someone from doing something.",
+        ["primary"] = "Of greatest importance; main or first.",
+        ["privilege"] = "A special right, advantage, or benefit granted to a particular person or group.",
+        ["process"] = "A series of actions or steps taken to achieve a particular result.",
+
+        ["rare"] = "Not occurring very often or not found in large numbers.",
+        ["rate"] = "A measure of the speed, frequency, or amount of something.",
+        ["recall"] = "To bring a fact, event, or experience back into one's mind.",
+        ["rely"] = "To depend on someone or something with trust or confidence.",
+        ["remark"] = "Something said or written as a comment or observation.",
+        ["resident"] = "A person who lives in a particular place.",
+        ["respect"] = "A feeling of admiration for someone or something because of their qualities, abilities, or achievements.",
+        ["responsible"] = "Having a duty to take care of something or being accountable for one's actions.",
+        ["reverse"] = "To move backward or change something to its opposite direction or condition.",
+        ["revive"] = "To bring back to life, consciousness, strength, or activity.",
+        ["risk"] = "The possibility of suffering harm, loss, or danger.",
+
+        ["scatter"] = "To throw or spread things in different directions over a wide area.",
+        ["schedule"] = "A plan that lists events or tasks and the times when they are to happen.",
+        ["sensitive"] = "Quick to detect or respond to slight changes, signals, or influences.",
+        ["signal"] = "A gesture, sound, or action used to convey information or instructions.",
+        ["solution"] = "A way of solving a problem or dealing with a difficult situation.",
+        ["spoil"] = "To damage or ruin the quality, value, or enjoyment of something.",
+        ["starve"] = "To suffer or die from a lack of food.",
+        ["steer"] = "To guide or control the direction of a vehicle or other moving object.",
+        ["struggled"] = "Made great efforts to achieve something or overcome a difficulty.",
+        ["suitable"] = "Right or appropriate for a particular person, purpose, or situation.",
+        ["survey"] = "To examine or investigate something carefully or to collect information by asking people questions.",
+        ["swift"] = "Moving or happening very quickly.",
+        ["symbol"] = "A mark, sign, or object that represents something else.",
+
+        ["talent"] = "A natural ability or skill, especially one that is above average.",
+        ["theory"] = "An idea or set of ideas intended to explain facts, events, or observations.",
+        ["thrill"] = "A sudden feeling of excitement, pleasure, or fear.",
+        ["treasure"] = "Valuable objects, especially gold, silver, money, or precious stones.",
+        ["triumph"] = "A great victory or achievement.",
+
+        ["value"] = "The worth, importance, or usefulness of something.",
+        ["vision"] = "The ability to see or an idea of what the future could be like.",
+        ["volunteer"] = "A person who freely offers to do something without being forced or paid.",
+
+        ["wander"] = "To walk or move around without a fixed direction or purpose.",
+        ["wisdom"] = "The ability to make good judgments based on knowledge, experience, and understanding.",
+        ["wit"] = "The ability to think quickly and express ideas in a clever or humorous way.",
+        ["woe"] = "Great sorrow, distress, or trouble."
+	})
+	{
+	}
+}
+
