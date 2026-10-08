@@ -11,7 +11,7 @@ public static class VocabularyLoader
     {
         ValidateGrade(grade);
 
-        string resourcePath = $"Vocabulary/grade{grade}";
+        string resourcePath = $"grade{grade}";
         TextAsset asset = Resources.Load<TextAsset>(resourcePath);
         if (asset == null)
             throw new InvalidOperationException(

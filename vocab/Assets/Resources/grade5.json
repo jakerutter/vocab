@@ -1,0 +1,2705 @@
+{
+  "grade": 5,
+  "words": [
+    {
+      "word": "abandon",
+      "definition": "To leave someone or something behind completely.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "departure",
+        "desertion",
+        "leaving"
+      ],
+      "synonyms": [
+        "leave",
+        "desert"
+      ],
+      "antonyms": [
+        "keep",
+        "remain"
+      ]
+    },
+    {
+      "word": "absorb",
+      "definition": "To take in a liquid, idea, or information.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "liquid",
+        "learning",
+        "attention"
+      ],
+      "synonyms": [
+        "soak up",
+        "take in"
+      ],
+      "antonyms": [
+        "release",
+        "repel"
+      ]
+    },
+    {
+      "word": "abstract",
+      "definition": "Existing as an idea rather than as a physical object.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "idea",
+        "concept",
+        "thought"
+      ],
+      "synonyms": [
+        "theoretical",
+        "conceptual"
+      ],
+      "antonyms": [
+        "concrete",
+        "physical"
+      ]
+    },
+    {
+      "word": "accelerate",
+      "definition": "To begin moving faster or cause something to move faster.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "speed",
+        "motion",
+        "rate"
+      ],
+      "synonyms": [
+        "speed up",
+        "hasten"
+      ],
+      "antonyms": [
+        "slow",
+        "decelerate"
+      ]
+    },
+    {
+      "word": "acceptable",
+      "definition": "Good enough to be approved or allowed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "approval",
+        "standard",
+        "quality"
+      ],
+      "synonyms": [
+        "satisfactory",
+        "suitable"
+      ],
+      "antonyms": [
+        "unacceptable",
+        "unsuitable"
+      ]
+    },
+    {
+      "word": "accompany",
+      "definition": "To go somewhere with someone or something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "travel",
+        "partner",
+        "group"
+      ],
+      "synonyms": [
+        "escort",
+        "join"
+      ],
+      "antonyms": [
+        "leave",
+        "abandon"
+      ]
+    },
+    {
+      "word": "accumulate",
+      "definition": "To gather or increase gradually over time.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "collection",
+        "amount",
+        "growth"
+      ],
+      "synonyms": [
+        "gather",
+        "collect"
+      ],
+      "antonyms": [
+        "scatter",
+        "disperse"
+      ]
+    },
+    {
+      "word": "acknowledge",
+      "definition": "To admit that something is true or recognize it.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "recognition",
+        "truth",
+        "admission"
+      ],
+      "synonyms": [
+        "recognize",
+        "admit"
+      ],
+      "antonyms": [
+        "deny",
+        "ignore"
+      ]
+    },
+    {
+      "word": "acquire",
+      "definition": "To gain or obtain something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "ownership",
+        "skill",
+        "learning"
+      ],
+      "synonyms": [
+        "obtain",
+        "gain"
+      ],
+      "antonyms": [
+        "lose",
+        "surrender"
+      ]
+    },
+    {
+      "word": "adjacent",
+      "definition": "Next to or very near something else.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "location",
+        "neighbor",
+        "position"
+      ],
+      "synonyms": [
+        "next to",
+        "neighboring"
+      ],
+      "antonyms": [
+        "distant",
+        "separate"
+      ]
+    },
+    {
+      "word": "advance",
+      "definition": "To move forward or make progress.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "progress",
+        "movement",
+        "improvement"
+      ],
+      "synonyms": [
+        "progress",
+        "proceed"
+      ],
+      "antonyms": [
+        "retreat",
+        "withdraw"
+      ]
+    },
+    {
+      "word": "aggressive",
+      "definition": "Ready to attack, argue, or act forcefully.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "behavior",
+        "conflict",
+        "competition"
+      ],
+      "synonyms": [
+        "forceful",
+        "hostile"
+      ],
+      "antonyms": [
+        "gentle",
+        "peaceful"
+      ]
+    },
+    {
+      "word": "alternate",
+      "definition": "To change back and forth between two things.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "change",
+        "turns",
+        "sequence"
+      ],
+      "synonyms": [
+        "rotate",
+        "switch"
+      ],
+      "antonyms": [
+        "remain",
+        "continue"
+      ]
+    },
+    {
+      "word": "ancient",
+      "definition": "Belonging to a very distant time in the past.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "history",
+        "ruins",
+        "civilization"
+      ],
+      "synonyms": [
+        "old",
+        "age-old"
+      ],
+      "antonyms": [
+        "modern",
+        "recent"
+      ]
+    },
+    {
+      "word": "annual",
+      "definition": "Happening once every year.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "year",
+        "event",
+        "schedule"
+      ],
+      "synonyms": [
+        "yearly",
+        "once-a-year"
+      ],
+      "antonyms": [
+        "monthly",
+        "daily"
+      ]
+    },
+    {
+      "word": "anticipate",
+      "definition": "To expect something and prepare for it ahead of time.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "future",
+        "expectation",
+        "preparation"
+      ],
+      "synonyms": [
+        "expect",
+        "foresee"
+      ],
+      "antonyms": [
+        "doubt",
+        "overlook"
+      ]
+    },
+    {
+      "word": "apparent",
+      "definition": "Easy to notice or understand; seeming to be true.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "appearance",
+        "evidence",
+        "observation"
+      ],
+      "synonyms": [
+        "obvious",
+        "evident"
+      ],
+      "antonyms": [
+        "hidden",
+        "unclear"
+      ]
+    },
+    {
+      "word": "approach",
+      "definition": "To move closer to someone or something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "distance",
+        "movement",
+        "direction"
+      ],
+      "synonyms": [
+        "near",
+        "advance"
+      ],
+      "antonyms": [
+        "retreat",
+        "depart"
+      ]
+    },
+    {
+      "word": "appropriate",
+      "definition": "Suitable or proper for a particular situation.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "behavior",
+        "choice",
+        "situation"
+      ],
+      "synonyms": [
+        "suitable",
+        "proper"
+      ],
+      "antonyms": [
+        "inappropriate",
+        "unsuitable"
+      ]
+    },
+    {
+      "word": "approve",
+      "definition": "To officially accept or agree with something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "permission",
+        "decision",
+        "agreement"
+      ],
+      "synonyms": [
+        "accept",
+        "authorize"
+      ],
+      "antonyms": [
+        "reject",
+        "disapprove"
+      ]
+    },
+    {
+      "word": "artificial",
+      "definition": "Made by people rather than occurring naturally.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "material",
+        "design",
+        "technology"
+      ],
+      "synonyms": [
+        "synthetic",
+        "man-made"
+      ],
+      "antonyms": [
+        "natural",
+        "genuine"
+      ]
+    },
+    {
+      "word": "assist",
+      "definition": "To help someone do something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "help",
+        "support",
+        "teamwork"
+      ],
+      "synonyms": [
+        "help",
+        "aid"
+      ],
+      "antonyms": [
+        "hinder",
+        "obstruct"
+      ]
+    },
+    {
+      "word": "assume",
+      "definition": "To accept something as true without having proof.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "belief",
+        "guess",
+        "idea"
+      ],
+      "synonyms": [
+        "suppose",
+        "presume"
+      ],
+      "antonyms": [
+        "verify",
+        "question"
+      ]
+    },
+    {
+      "word": "available",
+      "definition": "Ready to be used, obtained, or reached.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "access",
+        "supply",
+        "time"
+      ],
+      "synonyms": [
+        "obtainable",
+        "accessible"
+      ],
+      "antonyms": [
+        "unavailable",
+        "inaccessible"
+      ]
+    },
+    {
+      "word": "avoid",
+      "definition": "To keep away from someone or something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "danger",
+        "choice",
+        "distance"
+      ],
+      "synonyms": [
+        "evade",
+        "escape"
+      ],
+      "antonyms": [
+        "approach",
+        "confront"
+      ]
+    },
+    {
+      "word": "balanced",
+      "definition": "Having different parts in proper or equal amounts.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "equality",
+        "stability",
+        "proportion"
+      ],
+      "synonyms": [
+        "even",
+        "stable"
+      ],
+      "antonyms": [
+        "uneven",
+        "unbalanced"
+      ]
+    },
+    {
+      "word": "basic",
+      "definition": "Forming the simplest or most necessary part of something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "foundation",
+        "skills",
+        "needs"
+      ],
+      "synonyms": [
+        "fundamental",
+        "simple"
+      ],
+      "antonyms": [
+        "advanced",
+        "complex"
+      ]
+    },
+    {
+      "word": "bold",
+      "definition": "Willing to take risks or act with confidence.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "courage",
+        "decision",
+        "action"
+      ],
+      "synonyms": [
+        "brave",
+        "daring"
+      ],
+      "antonyms": [
+        "timid",
+        "cautious"
+      ]
+    },
+    {
+      "word": "brief",
+      "definition": "Lasting only a short time or using few words.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "time",
+        "message",
+        "summary"
+      ],
+      "synonyms": [
+        "short",
+        "concise"
+      ],
+      "antonyms": [
+        "lengthy",
+        "detailed"
+      ]
+    },
+    {
+      "word": "capable",
+      "definition": "Having the ability or skill needed to do something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "ability",
+        "skill",
+        "task"
+      ],
+      "synonyms": [
+        "able",
+        "competent"
+      ],
+      "antonyms": [
+        "incapable",
+        "unable"
+      ]
+    },
+    {
+      "word": "careless",
+      "definition": "Not giving enough attention to avoiding mistakes or danger.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "mistake",
+        "safety",
+        "attention"
+      ],
+      "synonyms": [
+        "reckless",
+        "sloppy"
+      ],
+      "antonyms": [
+        "careful",
+        "cautious"
+      ]
+    },
+    {
+      "word": "category",
+      "definition": "A group of things that share similar qualities.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "group",
+        "type",
+        "classification"
+      ],
+      "synonyms": [
+        "class",
+        "type"
+      ],
+      "antonyms": [
+        "individual",
+        "miscellany"
+      ]
+    },
+    {
+      "word": "certain",
+      "definition": "Known to be true or sure to happen.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "confidence",
+        "fact",
+        "result"
+      ],
+      "synonyms": [
+        "sure",
+        "definite"
+      ],
+      "antonyms": [
+        "uncertain",
+        "doubtful"
+      ]
+    },
+    {
+      "word": "civil",
+      "definition": "Polite and respectful in behavior toward others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "manners",
+        "respect",
+        "conversation"
+      ],
+      "synonyms": [
+        "courteous",
+        "polite"
+      ],
+      "antonyms": [
+        "rude",
+        "uncivil"
+      ]
+    },
+    {
+      "word": "clever",
+      "definition": "Quick to understand, learn, or solve problems.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "thinking",
+        "solution",
+        "skill"
+      ],
+      "synonyms": [
+        "smart",
+        "ingenious"
+      ],
+      "antonyms": [
+        "foolish",
+        "unwise"
+      ]
+    },
+    {
+      "word": "coherent",
+      "definition": "Clear and logically connected.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "ideas",
+        "writing",
+        "explanation"
+      ],
+      "synonyms": [
+        "logical",
+        "clear"
+      ],
+      "antonyms": [
+        "confusing",
+        "incoherent"
+      ]
+    },
+    {
+      "word": "commence",
+      "definition": "To begin or start something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "beginning",
+        "event",
+        "action"
+      ],
+      "synonyms": [
+        "begin",
+        "start"
+      ],
+      "antonyms": [
+        "finish",
+        "conclude"
+      ]
+    },
+    {
+      "word": "common",
+      "definition": "Happening often or found in many places.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "frequency",
+        "people",
+        "occurrence"
+      ],
+      "synonyms": [
+        "usual",
+        "ordinary"
+      ],
+      "antonyms": [
+        "rare",
+        "unusual"
+      ]
+    },
+    {
+      "word": "compel",
+      "definition": "To force or strongly cause someone to do something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "force",
+        "rule",
+        "action"
+      ],
+      "synonyms": [
+        "force",
+        "oblige"
+      ],
+      "antonyms": [
+        "allow",
+        "discourage"
+      ]
+    },
+    {
+      "word": "competent",
+      "definition": "Having enough skill or knowledge to do something well.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "ability",
+        "work",
+        "skill"
+      ],
+      "synonyms": [
+        "capable",
+        "qualified"
+      ],
+      "antonyms": [
+        "incompetent",
+        "unskilled"
+      ]
+    },
+    {
+      "word": "complete",
+      "definition": "Having all necessary parts or fully finished.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "task",
+        "whole",
+        "finish"
+      ],
+      "synonyms": [
+        "finished",
+        "whole"
+      ],
+      "antonyms": [
+        "incomplete",
+        "unfinished"
+      ]
+    },
+    {
+      "word": "conceal",
+      "definition": "To keep something hidden from view or knowledge.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "secret",
+        "cover",
+        "information"
+      ],
+      "synonyms": [
+        "hide",
+        "cover"
+      ],
+      "antonyms": [
+        "reveal",
+        "expose"
+      ]
+    },
+    {
+      "word": "confirm",
+      "definition": "To show or state that something is true or correct.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "evidence",
+        "answer",
+        "agreement"
+      ],
+      "synonyms": [
+        "verify",
+        "validate"
+      ],
+      "antonyms": [
+        "deny",
+        "disprove"
+      ]
+    },
+    {
+      "word": "connect",
+      "definition": "To join or link two or more things.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "link",
+        "relationship",
+        "network"
+      ],
+      "synonyms": [
+        "join",
+        "link"
+      ],
+      "antonyms": [
+        "separate",
+        "disconnect"
+      ]
+    },
+    {
+      "word": "considerable",
+      "definition": "Fairly large in amount, size, or importance.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "amount",
+        "size",
+        "importance"
+      ],
+      "synonyms": [
+        "substantial",
+        "large"
+      ],
+      "antonyms": [
+        "slight",
+        "small"
+      ]
+    },
+    {
+      "word": "construct",
+      "definition": "To build or put together something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "building",
+        "design",
+        "parts"
+      ],
+      "synonyms": [
+        "build",
+        "assemble"
+      ],
+      "antonyms": [
+        "destroy",
+        "dismantle"
+      ]
+    },
+    {
+      "word": "convenient",
+      "definition": "Easy to use or suitable for a person's needs or schedule.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "time",
+        "location",
+        "access"
+      ],
+      "synonyms": [
+        "handy",
+        "practical"
+      ],
+      "antonyms": [
+        "inconvenient",
+        "difficult"
+      ]
+    },
+    {
+      "word": "cooperate",
+      "definition": "To work together toward the same goal.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "teamwork",
+        "group",
+        "goal"
+      ],
+      "synonyms": [
+        "collaborate",
+        "assist"
+      ],
+      "antonyms": [
+        "oppose",
+        "resist"
+      ]
+    },
+    {
+      "word": "correct",
+      "definition": "Free from mistakes; true or accurate.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "answer",
+        "fact",
+        "accuracy"
+      ],
+      "synonyms": [
+        "right",
+        "accurate"
+      ],
+      "antonyms": [
+        "wrong",
+        "incorrect"
+      ]
+    },
+    {
+      "word": "create",
+      "definition": "To make something new.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "design",
+        "idea",
+        "product"
+      ],
+      "synonyms": [
+        "make",
+        "produce"
+      ],
+      "antonyms": [
+        "destroy",
+        "erase"
+      ]
+    },
+    {
+      "word": "criticize",
+      "definition": "To point out problems or faults in something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "feedback",
+        "judgment",
+        "review"
+      ],
+      "synonyms": [
+        "fault",
+        "condemn"
+      ],
+      "antonyms": [
+        "praise",
+        "commend"
+      ]
+    },
+    {
+      "word": "decisive",
+      "definition": "Able to make choices quickly and confidently.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "choice",
+        "leadership",
+        "action"
+      ],
+      "synonyms": [
+        "determined",
+        "resolute"
+      ],
+      "antonyms": [
+        "indecisive",
+        "uncertain"
+      ]
+    },
+    {
+      "word": "decrease",
+      "definition": "To become or make something smaller in amount or number.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "amount",
+        "number",
+        "change"
+      ],
+      "synonyms": [
+        "reduce",
+        "lessen"
+      ],
+      "antonyms": [
+        "increase",
+        "expand"
+      ]
+    },
+    {
+      "word": "definite",
+      "definition": "Clearly stated or certain; not doubtful.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "answer",
+        "plan",
+        "certainty"
+      ],
+      "synonyms": [
+        "certain",
+        "specific"
+      ],
+      "antonyms": [
+        "uncertain",
+        "vague"
+      ]
+    },
+    {
+      "word": "deliberate",
+      "definition": "Done on purpose after careful thought.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "choice",
+        "planning",
+        "action"
+      ],
+      "synonyms": [
+        "intentional",
+        "planned"
+      ],
+      "antonyms": [
+        "accidental",
+        "unplanned"
+      ]
+    },
+    {
+      "word": "dense",
+      "definition": "Closely packed together or containing a lot in a small space.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "forest",
+        "material",
+        "crowding"
+      ],
+      "synonyms": [
+        "thick",
+        "compact"
+      ],
+      "antonyms": [
+        "sparse",
+        "thin"
+      ]
+    },
+    {
+      "word": "depart",
+      "definition": "To leave a place.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "travel",
+        "leaving",
+        "journey"
+      ],
+      "synonyms": [
+        "leave",
+        "exit"
+      ],
+      "antonyms": [
+        "arrive",
+        "enter"
+      ]
+    },
+    {
+      "word": "describe",
+      "definition": "To tell or write what someone or something is like.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "details",
+        "writing",
+        "observation"
+      ],
+      "synonyms": [
+        "explain",
+        "portray"
+      ],
+      "antonyms": [
+        "conceal",
+        "omit"
+      ]
+    },
+    {
+      "word": "desperate",
+      "definition": "Feeling that a situation is so difficult that extreme action may be needed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "need",
+        "danger",
+        "emotion"
+      ],
+      "synonyms": [
+        "hopeless",
+        "frantic"
+      ],
+      "antonyms": [
+        "hopeful",
+        "calm"
+      ]
+    },
+    {
+      "word": "destroy",
+      "definition": "To damage something so badly that it no longer exists or works.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "damage",
+        "ruin",
+        "loss"
+      ],
+      "synonyms": [
+        "ruin",
+        "demolish"
+      ],
+      "antonyms": [
+        "build",
+        "create"
+      ]
+    },
+    {
+      "word": "detailed",
+      "definition": "Containing many facts, features, or small parts.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "information",
+        "description",
+        "design"
+      ],
+      "synonyms": [
+        "thorough",
+        "specific"
+      ],
+      "antonyms": [
+        "general",
+        "vague"
+      ]
+    },
+    {
+      "word": "diligent",
+      "definition": "Showing careful and steady effort in work or study.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "effort",
+        "study",
+        "work"
+      ],
+      "synonyms": [
+        "hardworking",
+        "careful"
+      ],
+      "antonyms": [
+        "lazy",
+        "careless"
+      ]
+    },
+    {
+      "word": "direct",
+      "definition": "Going straight from one place or point to another.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "route",
+        "path",
+        "communication"
+      ],
+      "synonyms": [
+        "straight",
+        "immediate"
+      ],
+      "antonyms": [
+        "indirect",
+        "roundabout"
+      ]
+    },
+    {
+      "word": "discourage",
+      "definition": "To make someone feel less willing or confident about doing something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "confidence",
+        "effort",
+        "motivation"
+      ],
+      "synonyms": [
+        "deter",
+        "dishearten"
+      ],
+      "antonyms": [
+        "encourage",
+        "inspire"
+      ]
+    },
+    {
+      "word": "distant",
+      "definition": "Far away in space or time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "location",
+        "time",
+        "travel"
+      ],
+      "synonyms": [
+        "far",
+        "remote"
+      ],
+      "antonyms": [
+        "near",
+        "close"
+      ]
+    },
+    {
+      "word": "distinct",
+      "definition": "Clearly different or separate from something else.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "difference",
+        "feature",
+        "identity"
+      ],
+      "synonyms": [
+        "different",
+        "separate"
+      ],
+      "antonyms": [
+        "similar",
+        "identical"
+      ]
+    },
+    {
+      "word": "dominate",
+      "definition": "To control or be much more powerful than others.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "power",
+        "competition",
+        "control"
+      ],
+      "synonyms": [
+        "control",
+        "rule"
+      ],
+      "antonyms": [
+        "submit",
+        "yield"
+      ]
+    },
+    {
+      "word": "efficient",
+      "definition": "Working well without wasting time, energy, or materials.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "work",
+        "time",
+        "energy"
+      ],
+      "synonyms": [
+        "effective",
+        "productive"
+      ],
+      "antonyms": [
+        "inefficient",
+        "wasteful"
+      ]
+    },
+    {
+      "word": "equal",
+      "definition": "The same in amount, size, value, or status.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "comparison",
+        "amount",
+        "fairness"
+      ],
+      "synonyms": [
+        "identical",
+        "equivalent"
+      ],
+      "antonyms": [
+        "unequal",
+        "different"
+      ]
+    },
+    {
+      "word": "evident",
+      "definition": "Clear enough to be easily seen or understood.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "proof",
+        "clue",
+        "observation"
+      ],
+      "synonyms": [
+        "obvious",
+        "apparent"
+      ],
+      "antonyms": [
+        "hidden",
+        "unclear"
+      ]
+    },
+    {
+      "word": "exceptional",
+      "definition": "Unusually good or different from what is ordinary.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "quality",
+        "achievement",
+        "skill"
+      ],
+      "synonyms": [
+        "outstanding",
+        "extraordinary"
+      ],
+      "antonyms": [
+        "ordinary",
+        "average"
+      ]
+    },
+    {
+      "word": "exclude",
+      "definition": "To leave someone or something out.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "group",
+        "choice",
+        "membership"
+      ],
+      "synonyms": [
+        "omit",
+        "remove"
+      ],
+      "antonyms": [
+        "include",
+        "admit"
+      ]
+    },
+    {
+      "word": "excuse",
+      "definition": "A reason given to explain or defend a mistake or action.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "reason",
+        "mistake",
+        "explanation"
+      ],
+      "synonyms": [
+        "justification",
+        "reason"
+      ],
+      "antonyms": [
+        "blame",
+        "accusation"
+      ]
+    },
+    {
+      "word": "exterior",
+      "definition": "The outside surface or part of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "surface",
+        "building",
+        "outside"
+      ],
+      "synonyms": [
+        "outside",
+        "outer part"
+      ],
+      "antonyms": [
+        "interior",
+        "inside"
+      ]
+    },
+    {
+      "word": "favorable",
+      "definition": "Showing approval or likely to lead to a good result.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "opinion",
+        "result",
+        "conditions"
+      ],
+      "synonyms": [
+        "positive",
+        "helpful"
+      ],
+      "antonyms": [
+        "unfavorable",
+        "negative"
+      ]
+    },
+    {
+      "word": "feeble",
+      "definition": "Weak in strength, force, or effect.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "strength",
+        "health",
+        "effort"
+      ],
+      "synonyms": [
+        "weak",
+        "frail"
+      ],
+      "antonyms": [
+        "strong",
+        "powerful"
+      ]
+    },
+    {
+      "word": "finite",
+      "definition": "Having a limit or an end.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "amount",
+        "time",
+        "limit"
+      ],
+      "synonyms": [
+        "limited",
+        "bounded"
+      ],
+      "antonyms": [
+        "infinite",
+        "endless"
+      ]
+    },
+    {
+      "word": "formal",
+      "definition": "Following an accepted or official style or set of rules.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "event",
+        "writing",
+        "rules"
+      ],
+      "synonyms": [
+        "official",
+        "proper"
+      ],
+      "antonyms": [
+        "informal",
+        "casual"
+      ]
+    },
+    {
+      "word": "fortunate",
+      "definition": "Having good luck or a favorable result.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "luck",
+        "result",
+        "opportunity"
+      ],
+      "synonyms": [
+        "lucky",
+        "blessed"
+      ],
+      "antonyms": [
+        "unfortunate",
+        "unlucky"
+      ]
+    },
+    {
+      "word": "gradual",
+      "definition": "Happening slowly over a period of time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "change",
+        "growth",
+        "time"
+      ],
+      "synonyms": [
+        "slow",
+        "steady"
+      ],
+      "antonyms": [
+        "sudden",
+        "abrupt"
+      ]
+    },
+    {
+      "word": "harsh",
+      "definition": "Very rough, severe, or unpleasant.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weather",
+        "words",
+        "conditions"
+      ],
+      "synonyms": [
+        "severe",
+        "rough"
+      ],
+      "antonyms": [
+        "gentle",
+        "mild"
+      ]
+    },
+    {
+      "word": "hasty",
+      "definition": "Done too quickly and without enough thought.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "decision",
+        "speed",
+        "mistake"
+      ],
+      "synonyms": [
+        "rushed",
+        "hurried"
+      ],
+      "antonyms": [
+        "careful",
+        "deliberate"
+      ]
+    },
+    {
+      "word": "honest",
+      "definition": "Truthful and not trying to deceive others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "truth",
+        "character",
+        "trust"
+      ],
+      "synonyms": [
+        "truthful",
+        "sincere"
+      ],
+      "antonyms": [
+        "dishonest",
+        "deceitful"
+      ]
+    },
+    {
+      "word": "identical",
+      "definition": "Exactly the same in every important way.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "comparison",
+        "objects",
+        "features"
+      ],
+      "synonyms": [
+        "same",
+        "equal"
+      ],
+      "antonyms": [
+        "different",
+        "distinct"
+      ]
+    },
+    {
+      "word": "idle",
+      "definition": "Not active or being used.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "work",
+        "machine",
+        "time"
+      ],
+      "synonyms": [
+        "inactive",
+        "unused"
+      ],
+      "antonyms": [
+        "active",
+        "busy"
+      ]
+    },
+    {
+      "word": "immense",
+      "definition": "Extremely large or great.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "space",
+        "amount"
+      ],
+      "synonyms": [
+        "huge",
+        "vast"
+      ],
+      "antonyms": [
+        "tiny",
+        "small"
+      ]
+    },
+    {
+      "word": "impatient",
+      "definition": "Unable to wait calmly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "waiting",
+        "frustration",
+        "time"
+      ],
+      "synonyms": [
+        "restless",
+        "eager"
+      ],
+      "antonyms": [
+        "patient",
+        "calm"
+      ]
+    },
+    {
+      "word": "important",
+      "definition": "Having great value, meaning, or effect.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "priority",
+        "decision",
+        "value"
+      ],
+      "synonyms": [
+        "significant",
+        "meaningful"
+      ],
+      "antonyms": [
+        "unimportant",
+        "trivial"
+      ]
+    },
+    {
+      "word": "independent",
+      "definition": "Able to act or exist without depending on others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "freedom",
+        "choice",
+        "responsibility"
+      ],
+      "synonyms": [
+        "self-reliant",
+        "autonomous"
+      ],
+      "antonyms": [
+        "dependent",
+        "reliant"
+      ]
+    },
+    {
+      "word": "inferior",
+      "definition": "Lower in quality, rank, or value.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "quality",
+        "comparison",
+        "rank"
+      ],
+      "synonyms": [
+        "lower",
+        "poorer"
+      ],
+      "antonyms": [
+        "superior",
+        "better"
+      ]
+    },
+    {
+      "word": "informal",
+      "definition": "Relaxed and not following official rules or customs.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "conversation",
+        "clothing",
+        "event"
+      ],
+      "synonyms": [
+        "casual",
+        "unofficial"
+      ],
+      "antonyms": [
+        "formal",
+        "official"
+      ]
+    },
+    {
+      "word": "innocent",
+      "definition": "Not guilty of a crime or wrongdoing.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "justice",
+        "behavior",
+        "accusation"
+      ],
+      "synonyms": [
+        "blameless",
+        "guiltless"
+      ],
+      "antonyms": [
+        "guilty",
+        "responsible"
+      ]
+    },
+    {
+      "word": "intentional",
+      "definition": "Done on purpose rather than by accident.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "choice",
+        "action",
+        "purpose"
+      ],
+      "synonyms": [
+        "deliberate",
+        "purposeful"
+      ],
+      "antonyms": [
+        "accidental",
+        "unintentional"
+      ]
+    },
+    {
+      "word": "interior",
+      "definition": "The inside part of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "inside",
+        "building",
+        "space"
+      ],
+      "synonyms": [
+        "inside",
+        "inner part"
+      ],
+      "antonyms": [
+        "exterior",
+        "outside"
+      ]
+    },
+    {
+      "word": "interpret",
+      "definition": "To explain the meaning of something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "meaning",
+        "language",
+        "information"
+      ],
+      "synonyms": [
+        "explain",
+        "understand"
+      ],
+      "antonyms": [
+        "misunderstand",
+        "misread"
+      ]
+    },
+    {
+      "word": "justify",
+      "definition": "To give a good reason or explanation for something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "reason",
+        "decision",
+        "evidence"
+      ],
+      "synonyms": [
+        "defend",
+        "explain"
+      ],
+      "antonyms": [
+        "condemn",
+        "criticize"
+      ]
+    },
+    {
+      "word": "logical",
+      "definition": "Based on clear reasoning and sensible connections.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "reasoning",
+        "argument",
+        "solution"
+      ],
+      "synonyms": [
+        "reasonable",
+        "rational"
+      ],
+      "antonyms": [
+        "illogical",
+        "unreasonable"
+      ]
+    },
+    {
+      "word": "loyal",
+      "definition": "Faithful and supportive toward a person, group, or cause.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "friendship",
+        "team",
+        "trust"
+      ],
+      "synonyms": [
+        "faithful",
+        "devoted"
+      ],
+      "antonyms": [
+        "disloyal",
+        "unfaithful"
+      ]
+    },
+    {
+      "word": "maximum",
+      "definition": "The greatest amount or number possible or allowed.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "limit",
+        "amount",
+        "number"
+      ],
+      "synonyms": [
+        "highest",
+        "greatest"
+      ],
+      "antonyms": [
+        "minimum",
+        "least"
+      ]
+    },
+    {
+      "word": "minimum",
+      "definition": "The smallest amount or number possible or allowed.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "limit",
+        "amount",
+        "number"
+      ],
+      "synonyms": [
+        "least",
+        "lowest"
+      ],
+      "antonyms": [
+        "maximum",
+        "greatest"
+      ]
+    },
+    {
+      "word": "minor",
+      "definition": "Smaller or less important than something else.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "importance",
+        "problem",
+        "detail"
+      ],
+      "synonyms": [
+        "small",
+        "lesser"
+      ],
+      "antonyms": [
+        "major",
+        "important"
+      ]
+    },
+    {
+      "word": "modest",
+      "definition": "Not overly proud; limited in size or amount.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "behavior",
+        "amount",
+        "achievement"
+      ],
+      "synonyms": [
+        "humble",
+        "moderate"
+      ],
+      "antonyms": [
+        "boastful",
+        "excessive"
+      ]
+    },
+    {
+      "word": "mysterious",
+      "definition": "Difficult to explain, understand, or identify.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "secret",
+        "puzzle",
+        "event"
+      ],
+      "synonyms": [
+        "puzzling",
+        "unknown"
+      ],
+      "antonyms": [
+        "obvious",
+        "clear"
+      ]
+    },
+    {
+      "word": "natural",
+      "definition": "Existing in nature rather than made by people.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "environment",
+        "material",
+        "world"
+      ],
+      "synonyms": [
+        "organic",
+        "real"
+      ],
+      "antonyms": [
+        "artificial",
+        "synthetic"
+      ]
+    },
+    {
+      "word": "necessary",
+      "definition": "Needed in order for something to happen or succeed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "need",
+        "requirement",
+        "success"
+      ],
+      "synonyms": [
+        "required",
+        "essential"
+      ],
+      "antonyms": [
+        "optional",
+        "unnecessary"
+      ]
+    },
+    {
+      "word": "negative",
+      "definition": "Expressing disagreement, refusal, or an unfavorable condition.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "attitude",
+        "response",
+        "result"
+      ],
+      "synonyms": [
+        "unfavorable",
+        "pessimistic"
+      ],
+      "antonyms": [
+        "positive",
+        "favorable"
+      ]
+    },
+    {
+      "word": "neglect",
+      "definition": "To fail to give proper care or attention to something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "care",
+        "duty",
+        "attention"
+      ],
+      "synonyms": [
+        "ignore",
+        "overlook"
+      ],
+      "antonyms": [
+        "care for",
+        "attend"
+      ]
+    },
+    {
+      "word": "nervous",
+      "definition": "Worried or uneasy about what may happen.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "emotion",
+        "test",
+        "uncertainty"
+      ],
+      "synonyms": [
+        "anxious",
+        "uneasy"
+      ],
+      "antonyms": [
+        "calm",
+        "relaxed"
+      ]
+    },
+    {
+      "word": "obvious",
+      "definition": "Easy to see, notice, or understand.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "clue",
+        "answer",
+        "appearance"
+      ],
+      "synonyms": [
+        "clear",
+        "apparent"
+      ],
+      "antonyms": [
+        "hidden",
+        "unclear"
+      ]
+    },
+    {
+      "word": "ordinary",
+      "definition": "Normal or usual; not especially unusual.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "daily life",
+        "quality",
+        "event"
+      ],
+      "synonyms": [
+        "common",
+        "usual"
+      ],
+      "antonyms": [
+        "exceptional",
+        "unusual"
+      ]
+    },
+    {
+      "word": "permanent",
+      "definition": "Lasting for a very long time or intended not to change.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "change",
+        "structure",
+        "time"
+      ],
+      "synonyms": [
+        "lasting",
+        "enduring"
+      ],
+      "antonyms": [
+        "temporary",
+        "short-term"
+      ]
+    },
+    {
+      "word": "permit",
+      "definition": "To allow someone to do something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "permission",
+        "rule",
+        "choice"
+      ],
+      "synonyms": [
+        "allow",
+        "authorize"
+      ],
+      "antonyms": [
+        "forbid",
+        "prohibit"
+      ]
+    },
+    {
+      "word": "plentiful",
+      "definition": "Existing in large amounts or numbers.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "supply",
+        "food",
+        "resources"
+      ],
+      "synonyms": [
+        "abundant",
+        "ample"
+      ],
+      "antonyms": [
+        "scarce",
+        "limited"
+      ]
+    },
+    {
+      "word": "precise",
+      "definition": "Exact and carefully stated or measured.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "measurement",
+        "details",
+        "answer"
+      ],
+      "synonyms": [
+        "exact",
+        "accurate"
+      ],
+      "antonyms": [
+        "inexact",
+        "vague"
+      ]
+    },
+    {
+      "word": "predict",
+      "definition": "To say what you think will happen in the future.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "future",
+        "forecast",
+        "evidence"
+      ],
+      "synonyms": [
+        "forecast",
+        "foretell"
+      ],
+      "antonyms": [
+        "doubt",
+        "misjudge"
+      ]
+    },
+    {
+      "word": "prevent",
+      "definition": "To stop something from happening.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "safety",
+        "action",
+        "problem"
+      ],
+      "synonyms": [
+        "stop",
+        "block"
+      ],
+      "antonyms": [
+        "allow",
+        "enable"
+      ]
+    },
+    {
+      "word": "primary",
+      "definition": "First in importance, order, or position.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "priority",
+        "source",
+        "school"
+      ],
+      "synonyms": [
+        "main",
+        "principal"
+      ],
+      "antonyms": [
+        "secondary",
+        "minor"
+      ]
+    },
+    {
+      "word": "private",
+      "definition": "Belonging to one person or group and not open to everyone.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "property",
+        "information",
+        "space"
+      ],
+      "synonyms": [
+        "personal",
+        "confidential"
+      ],
+      "antonyms": [
+        "public",
+        "open"
+      ]
+    },
+    {
+      "word": "probable",
+      "definition": "Likely to happen or be true.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "chance",
+        "prediction",
+        "result"
+      ],
+      "synonyms": [
+        "likely",
+        "expected"
+      ],
+      "antonyms": [
+        "unlikely",
+        "improbable"
+      ]
+    },
+    {
+      "word": "protect",
+      "definition": "To keep someone or something safe from harm.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "safety",
+        "danger",
+        "care"
+      ],
+      "synonyms": [
+        "guard",
+        "defend"
+      ],
+      "antonyms": [
+        "endanger",
+        "harm"
+      ]
+    },
+    {
+      "word": "rare",
+      "definition": "Not common or not often found.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "frequency",
+        "animal",
+        "event"
+      ],
+      "synonyms": [
+        "uncommon",
+        "unusual"
+      ],
+      "antonyms": [
+        "common",
+        "frequent"
+      ]
+    },
+    {
+      "word": "reasonable",
+      "definition": "Fair, sensible, or based on good judgment.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "decision",
+        "price",
+        "argument"
+      ],
+      "synonyms": [
+        "sensible",
+        "fair"
+      ],
+      "antonyms": [
+        "unreasonable",
+        "absurd"
+      ]
+    },
+    {
+      "word": "refuse",
+      "definition": "To say that you will not do or accept something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "choice",
+        "offer",
+        "decision"
+      ],
+      "synonyms": [
+        "reject",
+        "decline"
+      ],
+      "antonyms": [
+        "accept",
+        "agree"
+      ]
+    },
+    {
+      "word": "regular",
+      "definition": "Happening in a consistent or usual pattern.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "schedule",
+        "pattern",
+        "routine"
+      ],
+      "synonyms": [
+        "consistent",
+        "usual"
+      ],
+      "antonyms": [
+        "irregular",
+        "unusual"
+      ]
+    },
+    {
+      "word": "relevant",
+      "definition": "Closely connected to the subject being discussed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "topic",
+        "information",
+        "question"
+      ],
+      "synonyms": [
+        "related",
+        "applicable"
+      ],
+      "antonyms": [
+        "irrelevant",
+        "unrelated"
+      ]
+    },
+    {
+      "word": "remote",
+      "definition": "Far away from cities, people, or another place.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "distance",
+        "location",
+        "travel"
+      ],
+      "synonyms": [
+        "distant",
+        "isolated"
+      ],
+      "antonyms": [
+        "near",
+        "nearby"
+      ]
+    },
+    {
+      "word": "require",
+      "definition": "To need something or make it necessary.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "rule",
+        "need",
+        "task"
+      ],
+      "synonyms": [
+        "need",
+        "demand"
+      ],
+      "antonyms": [
+        "waive",
+        "dispense with"
+      ]
+    },
+    {
+      "word": "rigid",
+      "definition": "Stiff and not easily bent or changed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "material",
+        "rule",
+        "structure"
+      ],
+      "synonyms": [
+        "stiff",
+        "inflexible"
+      ],
+      "antonyms": [
+        "flexible",
+        "bendable"
+      ]
+    },
+    {
+      "word": "rough",
+      "definition": "Having an uneven surface or being harsh in quality.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "surface",
+        "weather",
+        "texture"
+      ],
+      "synonyms": [
+        "coarse",
+        "uneven"
+      ],
+      "antonyms": [
+        "smooth",
+        "gentle"
+      ]
+    },
+    {
+      "word": "satisfy",
+      "definition": "To meet a need, requirement, or expectation.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "need",
+        "goal",
+        "requirement"
+      ],
+      "synonyms": [
+        "fulfill",
+        "please"
+      ],
+      "antonyms": [
+        "disappoint",
+        "fail"
+      ]
+    },
+    {
+      "word": "severe",
+      "definition": "Very serious, harsh, or intense.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weather",
+        "injury",
+        "punishment"
+      ],
+      "synonyms": [
+        "harsh",
+        "serious"
+      ],
+      "antonyms": [
+        "mild",
+        "gentle"
+      ]
+    },
+    {
+      "word": "shallow",
+      "definition": "Not deep or extending only a short distance downward.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "water",
+        "depth",
+        "container"
+      ],
+      "synonyms": [
+        "not deep",
+        "low"
+      ],
+      "antonyms": [
+        "deep",
+        "profound"
+      ]
+    },
+    {
+      "word": "simple",
+      "definition": "Easy to understand or made of few parts.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "task",
+        "design",
+        "explanation"
+      ],
+      "synonyms": [
+        "easy",
+        "plain"
+      ],
+      "antonyms": [
+        "complex",
+        "complicated"
+      ]
+    },
+    {
+      "word": "specific",
+      "definition": "Clearly defined or exact rather than general.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "detail",
+        "question",
+        "instruction"
+      ],
+      "synonyms": [
+        "exact",
+        "particular"
+      ],
+      "antonyms": [
+        "general",
+        "vague"
+      ]
+    },
+    {
+      "word": "stable",
+      "definition": "Firm, steady, and not likely to change suddenly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "structure",
+        "condition",
+        "balance"
+      ],
+      "synonyms": [
+        "steady",
+        "secure"
+      ],
+      "antonyms": [
+        "unstable",
+        "shaky"
+      ]
+    },
+    {
+      "word": "sufficient",
+      "definition": "Enough for a particular purpose or need.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "amount",
+        "resources",
+        "need"
+      ],
+      "synonyms": [
+        "enough",
+        "adequate"
+      ],
+      "antonyms": [
+        "insufficient",
+        "inadequate"
+      ]
+    },
+    {
+      "word": "superior",
+      "definition": "Higher in quality, rank, or ability.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "quality",
+        "comparison",
+        "rank"
+      ],
+      "synonyms": [
+        "better",
+        "higher"
+      ],
+      "antonyms": [
+        "inferior",
+        "lower"
+      ]
+    },
+    {
+      "word": "swift",
+      "definition": "Moving or happening very quickly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "speed",
+        "movement",
+        "response"
+      ],
+      "synonyms": [
+        "fast",
+        "rapid"
+      ],
+      "antonyms": [
+        "slow",
+        "sluggish"
+      ]
+    },
+    {
+      "word": "timid",
+      "definition": "Shy or easily frightened.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "fear",
+        "confidence",
+        "behavior"
+      ],
+      "synonyms": [
+        "shy",
+        "fearful"
+      ],
+      "antonyms": [
+        "bold",
+        "brave"
+      ]
+    },
+    {
+      "word": "tolerate",
+      "definition": "To accept or endure something unpleasant without stopping it.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "patience",
+        "behavior",
+        "condition"
+      ],
+      "synonyms": [
+        "endure",
+        "allow"
+      ],
+      "antonyms": [
+        "reject",
+        "oppose"
+      ]
+    },
+    {
+      "word": "traditional",
+      "definition": "Following customs or ways of doing things that have existed for a long time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "custom",
+        "culture",
+        "practice"
+      ],
+      "synonyms": [
+        "customary",
+        "conventional"
+      ],
+      "antonyms": [
+        "modern",
+        "unconventional"
+      ]
+    },
+    {
+      "word": "transparent",
+      "definition": "Allowing light through so objects can be seen clearly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "glass",
+        "light",
+        "material"
+      ],
+      "synonyms": [
+        "clear",
+        "see-through"
+      ],
+      "antonyms": [
+        "opaque",
+        "cloudy"
+      ]
+    },
+    {
+      "word": "urgent",
+      "definition": "Needing immediate attention or action.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "emergency",
+        "time",
+        "priority"
+      ],
+      "synonyms": [
+        "pressing",
+        "critical"
+      ],
+      "antonyms": [
+        "nonurgent",
+        "unimportant"
+      ]
+    },
+    {
+      "word": "vacant",
+      "definition": "Empty or not being used or occupied.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "room",
+        "seat",
+        "position"
+      ],
+      "synonyms": [
+        "empty",
+        "unoccupied"
+      ],
+      "antonyms": [
+        "occupied",
+        "filled"
+      ]
+    },
+    {
+      "word": "vague",
+      "definition": "Not clear or specific.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "description",
+        "memory",
+        "instruction"
+      ],
+      "synonyms": [
+        "unclear",
+        "imprecise"
+      ],
+      "antonyms": [
+        "clear",
+        "specific"
+      ]
+    },
+    {
+      "word": "vanish",
+      "definition": "To disappear suddenly or completely.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "sight",
+        "magic",
+        "absence"
+      ],
+      "synonyms": [
+        "disappear",
+        "fade"
+      ],
+      "antonyms": [
+        "appear",
+        "emerge"
+      ]
+    },
+    {
+      "word": "vast",
+      "definition": "Extremely large in area, amount, or size.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "ocean",
+        "space",
+        "amount"
+      ],
+      "synonyms": [
+        "immense",
+        "enormous"
+      ],
+      "antonyms": [
+        "tiny",
+        "limited"
+      ]
+    },
+    {
+      "word": "visible",
+      "definition": "Able to be seen.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "sight",
+        "object",
+        "appearance"
+      ],
+      "synonyms": [
+        "noticeable",
+        "seen"
+      ],
+      "antonyms": [
+        "invisible",
+        "hidden"
+      ]
+    },
+    {
+      "word": "voluntary",
+      "definition": "Done by choice rather than because it is required.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "choice",
+        "service",
+        "action"
+      ],
+      "synonyms": [
+        "willing",
+        "optional"
+      ],
+      "antonyms": [
+        "required",
+        "compulsory"
+      ]
+    },
+    {
+      "word": "wise",
+      "definition": "Showing good judgment and understanding.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "decision",
+        "advice",
+        "experience"
+      ],
+      "synonyms": [
+        "sensible",
+        "prudent"
+      ],
+      "antonyms": [
+        "foolish",
+        "unwise"
+      ]
+    }
+  ]
+}

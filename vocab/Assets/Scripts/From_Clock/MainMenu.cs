@@ -16,7 +16,7 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
-        AudioManager.instance.Play("TickTock");
+        //AudioManager.instance.Play("TickTock");
         titleImage.FadeIn();
         playerName.text = $"{LeaderboardManager.Instance.GetPlayerName()}";
     }

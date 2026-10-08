@@ -39,7 +39,7 @@ public class FeedbackManager : MonoBehaviour
     public void ShowPositiveFeedback()
     {
         feedbackText.text = GetPositive_FeedbackText();
-        animator.SetTrigger("ShowPostive_Feedback");
+        animator.SetTrigger("ShowPositive_Feedback");
     }
 
     public void ShowNegativeFeedback()

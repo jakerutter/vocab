@@ -10,8 +10,13 @@
         "practice",
         "talent"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "skill",
+        "capability"
+      ],
+      "antonyms": [
+        "inability"
+      ]
     },
     {
       "word": "absorb",
@@ -22,8 +27,13 @@
         "liquid",
         "moisture"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "soak up",
+        "take in"
+      ],
+      "antonyms": [
+        "release"
+      ]
     },
     {
       "word": "accuse",
@@ -34,8 +44,13 @@
         "suspect",
         "trial"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "blame",
+        "charge"
+      ],
+      "antonyms": [
+        "defend"
+      ]
     },
     {
       "word": "act",
@@ -46,8 +61,13 @@
         "behavior",
         "action"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "do",
+        "perform"
+      ],
+      "antonyms": [
+        "refrain"
+      ]
     },
     {
       "word": "active",
@@ -58,8 +78,13 @@
         "energy",
         "movement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "energetic",
+        "busy"
+      ],
+      "antonyms": [
+        "inactive"
+      ]
     },
     {
       "word": "actual",
@@ -70,8 +95,13 @@
         "reality",
         "evidence"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "real",
+        "genuine"
+      ],
+      "antonyms": [
+        "imaginary"
+      ]
     },
     {
       "word": "adopt",
@@ -82,8 +112,13 @@
         "idea",
         "tradition"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "accept",
+        "embrace"
+      ],
+      "antonyms": [
+        "reject"
+      ]
     },
     {
       "word": "advantage",
@@ -94,8 +129,13 @@
         "opportunity",
         "position"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "benefit",
+        "edge"
+      ],
+      "antonyms": [
+        "disadvantage"
+      ]
     },
     {
       "word": "advice",
@@ -106,8 +146,13 @@
         "decision",
         "mentor"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "guidance",
+        "counsel"
+      ],
+      "antonyms": [
+        "misguidance"
+      ]
     },
     {
       "word": "ambition",
@@ -118,8 +163,13 @@
         "effort",
         "achievement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "drive",
+        "aspiration"
+      ],
+      "antonyms": [
+        "apathy"
+      ]
     },
     {
       "word": "ancient",
@@ -130,8 +180,13 @@
         "ruins",
         "civilization"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "old",
+        "age-old"
+      ],
+      "antonyms": [
+        "modern"
+      ]
     },
     {
       "word": "approach",
@@ -142,8 +197,13 @@
         "arrival",
         "destination"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "near",
+        "advance toward"
+      ],
+      "antonyms": [
+        "retreat"
+      ]
     },
     {
       "word": "arrange",
@@ -154,8 +214,13 @@
         "pattern",
         "schedule"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "organize",
+        "order"
+      ],
+      "antonyms": [
+        "disarrange"
+      ]
     },
     {
       "word": "arctic",
@@ -166,8 +231,13 @@
         "polar",
         "climate"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "polar",
+        "northern"
+      ],
+      "antonyms": [
+        "tropical"
+      ]
     },
     {
       "word": "attitude",
@@ -178,8 +248,13 @@
         "behavior",
         "mood"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "outlook",
+        "mindset"
+      ],
+      "antonyms": [
+        "indifference"
+      ]
     },
     {
       "word": "attract",
@@ -190,8 +265,13 @@
         "interest",
         "attention"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "draw",
+        "appeal to"
+      ],
+      "antonyms": [
+        "repel"
+      ]
     },
     {
       "word": "average",
@@ -202,8 +282,12 @@
         "sum",
         "division"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "mean"
+      ],
+      "antonyms": [
+        "extreme"
+      ]
     },
     {
       "word": "avoid",
@@ -214,8 +298,13 @@
         "obstacle",
         "prevention"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "evade",
+        "shun"
+      ],
+      "antonyms": [
+        "confront"
+      ]
     },
     {
       "word": "bold",
@@ -226,8 +315,13 @@
         "challenge",
         "risk"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "brave",
+        "daring"
+      ],
+      "antonyms": [
+        "timid"
+      ]
     },
     {
       "word": "border",
@@ -238,8 +332,13 @@
         "country",
         "map"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "boundary",
+        "edge"
+      ],
+      "antonyms": [
+        "interior"
+      ]
     },
     {
       "word": "brief",
@@ -250,8 +349,13 @@
         "time",
         "message"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "short",
+        "concise"
+      ],
+      "antonyms": [
+        "lengthy"
+      ]
     },
     {
       "word": "brilliant",
@@ -262,8 +366,13 @@
         "achievement",
         "talent"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "bright",
+        "exceptional"
+      ],
+      "antonyms": [
+        "dull"
+      ]
     },
     {
       "word": "cable",
@@ -274,8 +383,13 @@
         "electricity",
         "connection"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "wire",
+        "cord"
+      ],
+      "antonyms": [
+        "wireless"
+      ]
     },
     {
       "word": "capture",
@@ -286,8 +400,13 @@
         "escape",
         "prisoner"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "catch",
+        "seize"
+      ],
+      "antonyms": [
+        "release"
+      ]
     },
     {
       "word": "certain",
@@ -298,8 +417,13 @@
         "fact",
         "confidence"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sure",
+        "definite"
+      ],
+      "antonyms": [
+        "uncertain"
+      ]
     },
     {
       "word": "chill",
@@ -310,8 +434,13 @@
         "cold",
         "temperature"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "coldness",
+        "coolness"
+      ],
+      "antonyms": [
+        "warmth"
+      ]
     },
     {
       "word": "clever",
@@ -322,8 +451,13 @@
         "solution",
         "idea"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "smart",
+        "ingenious"
+      ],
+      "antonyms": [
+        "foolish"
+      ]
     },
     {
       "word": "climate",
@@ -334,8 +468,12 @@
         "temperature",
         "rainfall"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "weather pattern"
+      ],
+      "antonyms": [
+        "short-term weather"
+      ]
     },
     {
       "word": "cling",
@@ -346,8 +484,13 @@
         "surface",
         "support"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "grip",
+        "hold on"
+      ],
+      "antonyms": [
+        "release"
+      ]
     },
     {
       "word": "coast",
@@ -358,8 +501,13 @@
         "beach",
         "shoreline"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "shore",
+        "shoreline"
+      ],
+      "antonyms": [
+        "inland"
+      ]
     },
     {
       "word": "confess",
@@ -370,8 +518,13 @@
         "mistake",
         "responsibility"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "admit",
+        "acknowledge"
+      ],
+      "antonyms": [
+        "deny"
+      ]
     },
     {
       "word": "consider",
@@ -382,8 +535,13 @@
         "thought",
         "decision"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "ponder",
+        "think about"
+      ],
+      "antonyms": [
+        "ignore"
+      ]
     },
     {
       "word": "contain",
@@ -394,8 +552,13 @@
         "contents",
         "boundary"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "hold",
+        "include"
+      ],
+      "antonyms": [
+        "exclude"
+      ]
     },
     {
       "word": "continent",
@@ -406,8 +569,12 @@
         "landmass",
         "ocean"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "landmass"
+      ],
+      "antonyms": [
+        "ocean"
+      ]
     },
     {
       "word": "convince",
@@ -418,8 +585,13 @@
         "evidence",
         "opinion"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "persuade",
+        "assure"
+      ],
+      "antonyms": [
+        "dissuade"
+      ]
     },
     {
       "word": "coward",
@@ -430,8 +602,12 @@
         "danger",
         "courage"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "timid person"
+      ],
+      "antonyms": [
+        "hero"
+      ]
     },
     {
       "word": "crew",
@@ -442,8 +618,13 @@
         "ship",
         "aircraft"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "team",
+        "staff"
+      ],
+      "antonyms": [
+        "individual"
+      ]
     },
     {
       "word": "crumple",
@@ -454,8 +635,13 @@
         "wrinkle",
         "fold"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "wrinkle",
+        "crush"
+      ],
+      "antonyms": [
+        "smooth"
+      ]
     },
     {
       "word": "custom",
@@ -466,8 +652,13 @@
         "community",
         "culture"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "tradition",
+        "practice"
+      ],
+      "antonyms": [
+        "novelty"
+      ]
     },
     {
       "word": "decay",
@@ -478,8 +669,13 @@
         "time",
         "decomposition"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "rot",
+        "deteriorate"
+      ],
+      "antonyms": [
+        "flourish"
+      ]
     },
     {
       "word": "deed",
@@ -490,8 +686,13 @@
         "choice",
         "consequence"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "act",
+        "action"
+      ],
+      "antonyms": [
+        "inaction"
+      ]
     },
     {
       "word": "defend",
@@ -502,8 +703,13 @@
         "attack",
         "protection"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "protect",
+        "guard"
+      ],
+      "antonyms": [
+        "attack"
+      ]
     },
     {
       "word": "delicate",
@@ -514,8 +720,13 @@
         "fragility",
         "care"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "fragile",
+        "frail"
+      ],
+      "antonyms": [
+        "sturdy"
+      ]
     },
     {
       "word": "device",
@@ -526,8 +737,13 @@
         "purpose",
         "technology"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "tool",
+        "apparatus"
+      ],
+      "antonyms": [
+        "handwork"
+      ]
     },
     {
       "word": "diagram",
@@ -538,8 +754,13 @@
         "drawing",
         "explanation"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "chart",
+        "illustration"
+      ],
+      "antonyms": [
+        "verbal explanation"
+      ]
     },
     {
       "word": "digest",
@@ -550,8 +771,13 @@
         "stomach",
         "nutrients"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "process",
+        "break down"
+      ],
+      "antonyms": [
+        "expel"
+      ]
     },
     {
       "word": "disease",
@@ -562,8 +788,13 @@
         "health",
         "symptoms"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "illness",
+        "sickness"
+      ],
+      "antonyms": [
+        "health"
+      ]
     },
     {
       "word": "distant",
@@ -574,8 +805,13 @@
         "travel",
         "horizon"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "far",
+        "remote"
+      ],
+      "antonyms": [
+        "near"
+      ]
     },
     {
       "word": "doze",
@@ -586,8 +822,13 @@
         "rest",
         "afternoon"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "nap",
+        "snooze"
+      ],
+      "antonyms": [
+        "awaken"
+      ]
     },
     {
       "word": "drift",
@@ -598,8 +839,13 @@
         "wind",
         "movement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "float",
+        "wander"
+      ],
+      "antonyms": [
+        "anchor"
+      ]
     },
     {
       "word": "elegant",
@@ -610,8 +856,13 @@
         "grace",
         "appearance"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "graceful",
+        "refined"
+      ],
+      "antonyms": [
+        "clumsy"
+      ]
     },
     {
       "word": "enable",
@@ -622,8 +873,13 @@
         "permission",
         "opportunity"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "antonyms": [
+        "prevent"
+      ]
     },
     {
       "word": "examine",
@@ -634,8 +890,13 @@
         "evidence",
         "observation"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "inspect",
+        "study"
+      ],
+      "antonyms": [
+        "overlook"
+      ]
     },
     {
       "word": "explore",
@@ -646,8 +907,13 @@
         "journey",
         "map"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "investigate",
+        "discover"
+      ],
+      "antonyms": [
+        "ignore"
+      ]
     },
     {
       "word": "fan",
@@ -658,8 +924,13 @@
         "blades",
         "cooling"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "blower",
+        "ventilator"
+      ],
+      "antonyms": [
+        "still air"
+      ]
     },
     {
       "word": "fatal",
@@ -670,8 +941,13 @@
         "injury",
         "outcome"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "deadly",
+        "lethal"
+      ],
+      "antonyms": [
+        "harmless"
+      ]
     },
     {
       "word": "fierce",
@@ -682,8 +958,13 @@
         "battle",
         "intensity"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "ferocious",
+        "intense"
+      ],
+      "antonyms": [
+        "gentle"
+      ]
     },
     {
       "word": "flutter",
@@ -694,8 +975,13 @@
         "breeze",
         "movement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "flap",
+        "quiver"
+      ],
+      "antonyms": [
+        "remain still"
+      ]
     },
     {
       "word": "fortunate",
@@ -706,8 +992,13 @@
         "opportunity",
         "outcome"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "lucky",
+        "favored"
+      ],
+      "antonyms": [
+        "unfortunate"
+      ]
     },
     {
       "word": "frail",
@@ -718,8 +1009,13 @@
         "injury",
         "care"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "weak",
+        "fragile"
+      ],
+      "antonyms": [
+        "strong"
+      ]
     },
     {
       "word": "gasp",
@@ -730,8 +1026,13 @@
         "surprise",
         "shock"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "pant",
+        "gulp"
+      ],
+      "antonyms": [
+        "breathe calmly"
+      ]
     },
     {
       "word": "glide",
@@ -742,8 +1043,13 @@
         "air",
         "smoothness"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "slide",
+        "coast"
+      ],
+      "antonyms": [
+        "jerk"
+      ]
     },
     {
       "word": "globe",
@@ -754,8 +1060,13 @@
         "geography",
         "continents"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sphere",
+        "world"
+      ],
+      "antonyms": [
+        "flat map"
+      ]
     },
     {
       "word": "grace",
@@ -766,8 +1077,13 @@
         "movement",
         "elegance"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "elegance",
+        "poise"
+      ],
+      "antonyms": [
+        "clumsiness"
+      ]
     },
     {
       "word": "gradual",
@@ -778,8 +1094,13 @@
         "change",
         "progress"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "slow",
+        "steady"
+      ],
+      "antonyms": [
+        "sudden"
+      ]
     },
     {
       "word": "grasp",
@@ -790,8 +1111,13 @@
         "object",
         "grip"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "grip",
+        "seize"
+      ],
+      "antonyms": [
+        "release"
+      ]
     },
     {
       "word": "habit",
@@ -802,8 +1128,13 @@
         "repetition",
         "behavior"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "routine",
+        "custom"
+      ],
+      "antonyms": [
+        "novelty"
+      ]
     },
     {
       "word": "harsh",
@@ -814,8 +1145,13 @@
         "criticism",
         "conditions"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "severe",
+        "rough"
+      ],
+      "antonyms": [
+        "gentle"
+      ]
     },
     {
       "word": "imitate",
@@ -826,8 +1162,13 @@
         "behavior",
         "copying"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "copy",
+        "mimic"
+      ],
+      "antonyms": [
+        "originate"
+      ]
     },
     {
       "word": "individual",
@@ -838,8 +1179,13 @@
         "group",
         "identity"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "person",
+        "single"
+      ],
+      "antonyms": [
+        "group"
+      ]
     },
     {
       "word": "intelligent",
@@ -850,8 +1196,13 @@
         "reasoning",
         "knowledge"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "smart",
+        "bright"
+      ],
+      "antonyms": [
+        "unintelligent"
+      ]
     },
     {
       "word": "intend",
@@ -862,8 +1213,13 @@
         "purpose",
         "future"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "plan",
+        "mean"
+      ],
+      "antonyms": [
+        "abandon"
+      ]
     },
     {
       "word": "journey",
@@ -874,8 +1230,13 @@
         "destination",
         "route"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "trip",
+        "voyage"
+      ],
+      "antonyms": [
+        "stay"
+      ]
     },
     {
       "word": "launch",
@@ -886,8 +1247,13 @@
         "beginning",
         "motion"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "start",
+        "begin"
+      ],
+      "antonyms": [
+        "halt"
+      ]
     },
     {
       "word": "limit",
@@ -898,8 +1264,13 @@
         "rule",
         "maximum"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "boundary",
+        "restriction"
+      ],
+      "antonyms": [
+        "freedom"
+      ]
     },
     {
       "word": "locate",
@@ -910,8 +1281,13 @@
         "position",
         "search"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "find",
+        "discover"
+      ],
+      "antonyms": [
+        "lose"
+      ]
     },
     {
       "word": "loyal",
@@ -922,8 +1298,13 @@
         "trust",
         "commitment"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "faithful",
+        "devoted"
+      ],
+      "antonyms": [
+        "disloyal"
+      ]
     },
     {
       "word": "magnificent",
@@ -934,8 +1315,13 @@
         "beauty",
         "scale"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "splendid",
+        "grand"
+      ],
+      "antonyms": [
+        "ordinary"
+      ]
     },
     {
       "word": "marsh",
@@ -946,8 +1332,13 @@
         "reeds",
         "water"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "wetland",
+        "swamp"
+      ],
+      "antonyms": [
+        "dry land"
+      ]
     },
     {
       "word": "method",
@@ -958,8 +1349,13 @@
         "process",
         "plan"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "way",
+        "procedure"
+      ],
+      "antonyms": [
+        "randomness"
+      ]
     },
     {
       "word": "misery",
@@ -970,8 +1366,13 @@
         "distress",
         "sadness"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "suffering",
+        "unhappiness"
+      ],
+      "antonyms": [
+        "joy"
+      ]
     },
     {
       "word": "moisture",
@@ -982,8 +1383,13 @@
         "water",
         "surface"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "dampness",
+        "humidity"
+      ],
+      "antonyms": [
+        "dryness"
+      ]
     },
     {
       "word": "mural",
@@ -994,8 +1400,13 @@
         "wall",
         "artist"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "wall painting",
+        "wall art"
+      ],
+      "antonyms": [
+        "blank wall"
+      ]
     },
     {
       "word": "mystify",
@@ -1006,8 +1417,13 @@
         "question",
         "confusion"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "confuse",
+        "puzzle"
+      ],
+      "antonyms": [
+        "clarify"
+      ]
     },
     {
       "word": "nation",
@@ -1018,8 +1434,13 @@
         "government",
         "people"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "country",
+        "state"
+      ],
+      "antonyms": [
+        "statelessness"
+      ]
     },
     {
       "word": "nectar",
@@ -1030,8 +1451,13 @@
         "bee",
         "pollination"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sweet liquid",
+        "flower juice"
+      ],
+      "antonyms": [
+        "bitter liquid"
+      ]
     },
     {
       "word": "nursery",
@@ -1042,8 +1468,13 @@
         "plants",
         "care"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "childcare center",
+        "plant nursery"
+      ],
+      "antonyms": [
+        "adult setting"
+      ]
     },
     {
       "word": "observe",
@@ -1054,8 +1485,13 @@
         "details",
         "science"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "watch",
+        "notice"
+      ],
+      "antonyms": [
+        "ignore"
+      ]
     },
     {
       "word": "opponent",
@@ -1066,8 +1502,13 @@
         "debate",
         "rivalry"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "rival",
+        "competitor"
+      ],
+      "antonyms": [
+        "ally"
+      ]
     },
     {
       "word": "opposite",
@@ -1078,8 +1519,13 @@
         "contrast",
         "position"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "contrary",
+        "reverse"
+      ],
+      "antonyms": [
+        "same"
+      ]
     },
     {
       "word": "ordeal",
@@ -1090,8 +1536,13 @@
         "experience",
         "endurance"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "trial",
+        "hardship"
+      ],
+      "antonyms": [
+        "comfort"
+      ]
     },
     {
       "word": "origin",
@@ -1102,8 +1553,13 @@
         "source",
         "history"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "source",
+        "beginning"
+      ],
+      "antonyms": [
+        "end"
+      ]
     },
     {
       "word": "outcome",
@@ -1114,8 +1570,13 @@
         "event",
         "consequence"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "result",
+        "consequence"
+      ],
+      "antonyms": [
+        "cause"
+      ]
     },
     {
       "word": "passage",
@@ -1126,8 +1587,13 @@
         "corridor",
         "travel"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "section",
+        "route"
+      ],
+      "antonyms": [
+        "blockage"
+      ]
     },
     {
       "word": "pastime",
@@ -1138,8 +1604,13 @@
         "leisure",
         "enjoyment"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "hobby",
+        "recreation"
+      ],
+      "antonyms": [
+        "work"
+      ]
     },
     {
       "word": "pause",
@@ -1150,8 +1621,13 @@
         "silence",
         "time"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "break",
+        "stop"
+      ],
+      "antonyms": [
+        "continuation"
+      ]
     },
     {
       "word": "perform",
@@ -1162,8 +1638,13 @@
         "task",
         "audience"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "do",
+        "carry out"
+      ],
+      "antonyms": [
+        "neglect"
+      ]
     },
     {
       "word": "plunge",
@@ -1174,8 +1655,13 @@
         "depth",
         "speed"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "dive",
+        "drop"
+      ],
+      "antonyms": [
+        "rise"
+      ]
     },
     {
       "word": "predator",
@@ -1186,8 +1672,12 @@
         "hunt",
         "food chain"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "hunter"
+      ],
+      "antonyms": [
+        "prey"
+      ]
     },
     {
       "word": "predict",
@@ -1198,8 +1688,13 @@
         "evidence",
         "future"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "forecast",
+        "foretell"
+      ],
+      "antonyms": [
+        "recount"
+      ]
     },
     {
       "word": "prevent",
@@ -1210,8 +1705,13 @@
         "risk",
         "protection"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "stop",
+        "block"
+      ],
+      "antonyms": [
+        "allow"
+      ]
     },
     {
       "word": "primary",
@@ -1222,8 +1722,13 @@
         "importance",
         "first"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "main",
+        "chief"
+      ],
+      "antonyms": [
+        "secondary"
+      ]
     },
     {
       "word": "privilege",
@@ -1234,8 +1739,13 @@
         "right",
         "access"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "benefit",
+        "special right"
+      ],
+      "antonyms": [
+        "restriction"
+      ]
     },
     {
       "word": "process",
@@ -1246,8 +1756,13 @@
         "method",
         "result"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "procedure",
+        "method"
+      ],
+      "antonyms": [
+        "result"
+      ]
     },
     {
       "word": "rare",
@@ -1258,8 +1773,13 @@
         "frequency",
         "discovery"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "uncommon",
+        "scarce"
+      ],
+      "antonyms": [
+        "common"
+      ]
     },
     {
       "word": "rate",
@@ -1270,8 +1790,13 @@
         "frequency",
         "measurement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "pace",
+        "speed"
+      ],
+      "antonyms": [
+        "standstill"
+      ]
     },
     {
       "word": "recall",
@@ -1282,8 +1807,13 @@
         "experience",
         "knowledge"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "remember",
+        "recollect"
+      ],
+      "antonyms": [
+        "forget"
+      ]
     },
     {
       "word": "rely",
@@ -1294,8 +1824,13 @@
         "support",
         "dependence"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "depend",
+        "trust"
+      ],
+      "antonyms": [
+        "distrust"
+      ]
     },
     {
       "word": "remark",
@@ -1306,8 +1841,13 @@
         "conversation",
         "observation"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "comment",
+        "observation"
+      ],
+      "antonyms": [
+        "silence"
+      ]
     },
     {
       "word": "resident",
@@ -1318,8 +1858,13 @@
         "neighborhood",
         "community"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "inhabitant",
+        "local"
+      ],
+      "antonyms": [
+        "visitor"
+      ]
     },
     {
       "word": "respect",
@@ -1330,8 +1875,13 @@
         "character",
         "achievement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "admiration",
+        "esteem"
+      ],
+      "antonyms": [
+        "disrespect"
+      ]
     },
     {
       "word": "responsible",
@@ -1342,8 +1892,13 @@
         "accountability",
         "trust"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "accountable",
+        "dependable"
+      ],
+      "antonyms": [
+        "irresponsible"
+      ]
     },
     {
       "word": "reverse",
@@ -1354,8 +1909,13 @@
         "change",
         "movement"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "invert",
+        "turn back"
+      ],
+      "antonyms": [
+        "continue"
+      ]
     },
     {
       "word": "revive",
@@ -1366,8 +1926,13 @@
         "strength",
         "energy"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "restore",
+        "renew"
+      ],
+      "antonyms": [
+        "weaken"
+      ]
     },
     {
       "word": "risk",
@@ -1378,8 +1943,13 @@
         "chance",
         "decision"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "danger",
+        "hazard"
+      ],
+      "antonyms": [
+        "safety"
+      ]
     },
     {
       "word": "scatter",
@@ -1390,8 +1960,13 @@
         "wind",
         "distance"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "spread",
+        "disperse"
+      ],
+      "antonyms": [
+        "gather"
+      ]
     },
     {
       "word": "schedule",
@@ -1402,8 +1977,13 @@
         "events",
         "time"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "timetable",
+        "plan"
+      ],
+      "antonyms": [
+        "spontaneity"
+      ]
     },
     {
       "word": "sensitive",
@@ -1414,8 +1994,13 @@
         "change",
         "signals"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "responsive",
+        "receptive"
+      ],
+      "antonyms": [
+        "insensitive"
+      ]
     },
     {
       "word": "signal",
@@ -1426,8 +2011,13 @@
         "warning",
         "communication"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sign",
+        "cue"
+      ],
+      "antonyms": [
+        "silence"
+      ]
     },
     {
       "word": "solution",
@@ -1438,8 +2028,13 @@
         "method",
         "answer"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "answer",
+        "remedy"
+      ],
+      "antonyms": [
+        "problem"
+      ]
     },
     {
       "word": "spoil",
@@ -1450,8 +2045,13 @@
         "damage",
         "quality"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "ruin",
+        "damage"
+      ],
+      "antonyms": [
+        "improve"
+      ]
     },
     {
       "word": "starve",
@@ -1462,8 +2062,13 @@
         "food",
         "survival"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "go hungry",
+        "famish"
+      ],
+      "antonyms": [
+        "feed"
+      ]
     },
     {
       "word": "steer",
@@ -1474,8 +2079,13 @@
         "wheel",
         "direction"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "guide",
+        "direct"
+      ],
+      "antonyms": [
+        "follow"
+      ]
     },
     {
       "word": "struggled",
@@ -1486,8 +2096,13 @@
         "obstacle",
         "challenge"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "labored",
+        "fought"
+      ],
+      "antonyms": [
+        "succeeded easily"
+      ]
     },
     {
       "word": "suitable",
@@ -1498,8 +2113,13 @@
         "choice",
         "requirements"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "appropriate",
+        "fitting"
+      ],
+      "antonyms": [
+        "unsuitable"
+      ]
     },
     {
       "word": "survey",
@@ -1510,8 +2130,13 @@
         "data",
         "investigation"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "examine",
+        "inspect"
+      ],
+      "antonyms": [
+        "ignore"
+      ]
     },
     {
       "word": "swift",
@@ -1522,8 +2147,13 @@
         "movement",
         "time"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "fast",
+        "quick"
+      ],
+      "antonyms": [
+        "slow"
+      ]
     },
     {
       "word": "symbol",
@@ -1534,8 +2164,13 @@
         "sign",
         "representation"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sign",
+        "emblem"
+      ],
+      "antonyms": [
+        "literal object"
+      ]
     },
     {
       "word": "talent",
@@ -1546,8 +2181,13 @@
         "music",
         "ability"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "gift",
+        "ability"
+      ],
+      "antonyms": [
+        "inability"
+      ]
     },
     {
       "word": "theory",
@@ -1558,8 +2198,13 @@
         "explanation",
         "science"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "hypothesis",
+        "explanation"
+      ],
+      "antonyms": [
+        "fact"
+      ]
     },
     {
       "word": "thrill",
@@ -1570,8 +2215,13 @@
         "surprise",
         "adventure"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "excitement",
+        "delight"
+      ],
+      "antonyms": [
+        "boredom"
+      ]
     },
     {
       "word": "treasure",
@@ -1582,8 +2232,13 @@
         "discovery",
         "value"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "riches",
+        "valuables"
+      ],
+      "antonyms": [
+        "trash"
+      ]
     },
     {
       "word": "triumph",
@@ -1594,8 +2249,13 @@
         "effort",
         "celebration"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "victory",
+        "success"
+      ],
+      "antonyms": [
+        "defeat"
+      ]
     },
     {
       "word": "value",
@@ -1606,8 +2266,13 @@
         "importance",
         "price"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "worth",
+        "importance"
+      ],
+      "antonyms": [
+        "worthlessness"
+      ]
     },
     {
       "word": "vision",
@@ -1618,8 +2283,13 @@
         "future",
         "imagination"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sight",
+        "foresight"
+      ],
+      "antonyms": [
+        "blindness"
+      ]
     },
     {
       "word": "volunteer",
@@ -1630,8 +2300,13 @@
         "community",
         "help"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "helper",
+        "participant"
+      ],
+      "antonyms": [
+        "forced worker"
+      ]
     },
     {
       "word": "wander",
@@ -1642,8 +2317,13 @@
         "direction",
         "exploration"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "roam",
+        "drift"
+      ],
+      "antonyms": [
+        "stay"
+      ]
     },
     {
       "word": "wisdom",
@@ -1654,8 +2334,13 @@
         "judgment",
         "learning"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "insight",
+        "good judgment"
+      ],
+      "antonyms": [
+        "foolishness"
+      ]
     },
     {
       "word": "wit",
@@ -1666,8 +2351,13 @@
         "conversation",
         "quick thinking"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "cleverness",
+        "humor"
+      ],
+      "antonyms": [
+        "dullness"
+      ]
     },
     {
       "word": "woe",
@@ -1678,8 +2368,13 @@
         "hardship",
         "distress"
       ],
-      "synonyms": [],
-      "antonyms": []
+      "synonyms": [
+        "sorrow",
+        "misery"
+      ],
+      "antonyms": [
+        "joy"
+      ]
     }
   ]
 }

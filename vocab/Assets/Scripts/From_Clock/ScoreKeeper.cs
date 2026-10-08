@@ -22,6 +22,11 @@ public static class ScoreKeeper
         }
     }
 
+    public static void ClearStreak()
+    {
+        scoreStreak = 0;
+    }
+
     public static void AddAnswersSubmitted()
     {
         // even when wrong we iterate this

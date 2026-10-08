@@ -67,13 +67,13 @@ public class LeaderboardRowUI : MonoBehaviour
         switch (rank)
         {
             case 1:
-                return "1st";
+                return "";
 
             case 2:
-                return "2nd";
+                return "";
 
             case 3:
-                return "3rd";
+                return "";
 
             default:
                 return rank.ToString() + "th";

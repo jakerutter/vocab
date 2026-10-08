@@ -9,19 +9,19 @@ using System.Collections.Generic;
 public class LeaderboardManager : MonoBehaviour
 {
     public static LeaderboardManager Instance { get; private set; }
-    public TextMeshProUGUI[] TopScores;
-    [SerializeField]
-    private Transform scoresContainer;
 
-    [SerializeField]
-    private LeaderboardRowUI leaderboardRowPrefab;
+    public event Action<LeaderboardScore[]> ScoresUpdated;
+
+    public LeaderboardScore[] LatestScores { get; private set; }
+
     [Header("API Settings")]
     [SerializeField]
     private string leaderboardUrl =
         "https://simplecrm.dev/api/leaderboard_scores";
 
     [SerializeField]
-    private string gameName = "hands_on_time";
+    private string gameName = "vocab";
+
     private string sessionKey;
     private double gameStartTime;
     private const string PlayerNameKey = "LeaderboardPlayerName";
@@ -93,6 +93,12 @@ public class LeaderboardManager : MonoBehaviour
         "Zebra",
         "Squirrel"
     };
+
+    private readonly HashSet<int> blockedNumbers = new HashSet<int>
+    {
+        666
+    };
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -109,7 +115,6 @@ public class LeaderboardManager : MonoBehaviour
 
     private void Start()
     {
-        GetTopScores();
         gameStartTime = Time.realtimeSinceStartupAsDouble;
         sessionKey = Guid.NewGuid().ToString();
     }
@@ -127,11 +132,6 @@ public class LeaderboardManager : MonoBehaviour
             UnityEngine.Random.Range(0, animals.Length)
         ];
     }
-
-    private readonly HashSet<int> blockedNumbers = new HashSet<int>
-    {
-        666
-    };
 
     private string GetRandomDigits()
     {
@@ -206,7 +206,9 @@ public class LeaderboardManager : MonoBehaviour
                 yield break;
             }
 
-            foreach (LeaderboardScore score in response.scores)
+            LatestScores = response.scores;
+
+            foreach (LeaderboardScore score in LatestScores)
             {
                 Debug.Log(
                     $"{score.player_name}: {score.score} " +
@@ -214,7 +216,7 @@ public class LeaderboardManager : MonoBehaviour
                 );
             }
 
-            DisplayScores(response.scores);
+            ScoresUpdated?.Invoke(LatestScores);
         }
     }
 
@@ -304,45 +306,11 @@ public class LeaderboardManager : MonoBehaviour
                 $"Score submitted successfully: " +
                 request.downloadHandler.text
             );
-        }
-    }
 
-    private void DisplayScores(LeaderboardScore[] scores)
-    {
-        ClearLeaderboard();
-
-        string currentPlayerName = GetPlayerName();
-
-        for (int i = 0; i < scores.Length; i++)
-        {
-            LeaderboardScore score = scores[i];
-
-            LeaderboardRowUI row = Instantiate(
-                leaderboardRowPrefab,
-                scoresContainer
-            );
-
-            bool isCurrentPlayer =
-                score.player_name == currentPlayerName;
-
-            row.Setup(
-                i + 1,
-                score,
-                isCurrentPlayer,
-                i % 2 == 0
-            );
-        }
-    }
-
-    private void ClearLeaderboard()
-    {
-        foreach (Transform child in scoresContainer)
-        {
-            Destroy(child.gameObject);
+            GetTopScores();
         }
     }
 }
-
 
 // ----------------------------
 // JSON MODELS
