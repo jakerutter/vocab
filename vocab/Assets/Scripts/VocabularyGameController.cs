@@ -29,6 +29,7 @@ public class VocabularyGameController : MonoBehaviour
       correctStreak.text = "0";
 
       gradeSelectedText.text = "grade " + MasterSettings.selectedGrade.ToString();
+      ApplyTextColor();
 
       StartGame();
     }
@@ -152,5 +153,17 @@ public class VocabularyGameController : MonoBehaviour
     public void EndGame()
     {
         game.EndGame();
+    }
+
+    private void ApplyTextColor()
+    {
+        Color selectedColor = MasterSettings.GetTextColor();
+
+        questionText.color = selectedColor;
+
+        foreach (TextMeshProUGUI answerText in answerTextList)
+        {
+            answerText.color = selectedColor;
+        }
     }
 }
