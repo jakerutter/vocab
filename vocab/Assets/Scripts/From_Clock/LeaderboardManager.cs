@@ -227,6 +227,11 @@ public class LeaderboardManager : MonoBehaviour
 
     public void PostScore()
     {
+        StartCoroutine(PostScoreCoroutine(CreateScorePayload()));
+    }
+
+    private LeaderboardScorePayload CreateScorePayload()
+    {
         int duration = GetDurationSeconds();
         string playerName = GetPlayerName();
         string playerKey = "testKey";
@@ -235,28 +240,58 @@ public class LeaderboardManager : MonoBehaviour
         int questionsAnswered = ScoreKeeper.GetAnswersSubmitted();
         int correctAnswers = ScoreKeeper.GetCorrectAnswersCount();
 
-        LeaderboardScorePayload payload =
-            new LeaderboardScorePayload
+        return new LeaderboardScorePayload
+        {
+            game_name = gameName,
+            player_name = playerName,
+            player_key = playerKey,
+            score = score,
+            max_streak = maxStreak,
+            difficulty = null,
+            game_mode = null,
+            questions_answered = questionsAnswered,
+            correct_answers = correctAnswers,
+            duration_seconds = duration,
+            client_version = Application.version,
+            metadata = new LeaderboardMetadata
             {
-                game_name = gameName,
-                player_name = playerName,
-                player_key = playerKey,
-                score = score,
-                max_streak = maxStreak,
-                difficulty = null,
-                game_mode = null,
-                questions_answered = questionsAnswered,
-                correct_answers = correctAnswers,
-                duration_seconds = duration,
-                client_version = Application.version,
-                metadata = new LeaderboardMetadata
-                {
-                    session_key = sessionKey
-                }
-            };
-
-        StartCoroutine(PostScoreCoroutine(payload));
+                session_key = sessionKey
+            }
+        };
     }
+
+    // public void PostScore()
+    // {
+    //     int duration = GetDurationSeconds();
+    //     string playerName = GetPlayerName();
+    //     string playerKey = "testKey";
+    //     int score = ScoreKeeper.totalScore;
+    //     int maxStreak = ScoreKeeper.GetMaxStreak();
+    //     int questionsAnswered = ScoreKeeper.GetAnswersSubmitted();
+    //     int correctAnswers = ScoreKeeper.GetCorrectAnswersCount();
+
+    //     LeaderboardScorePayload payload =
+    //         new LeaderboardScorePayload
+    //         {
+    //             game_name = gameName,
+    //             player_name = playerName,
+    //             player_key = playerKey,
+    //             score = score,
+    //             max_streak = maxStreak,
+    //             difficulty = null,
+    //             game_mode = null,
+    //             questions_answered = questionsAnswered,
+    //             correct_answers = correctAnswers,
+    //             duration_seconds = duration,
+    //             client_version = Application.version,
+    //             metadata = new LeaderboardMetadata
+    //             {
+    //                 session_key = sessionKey
+    //             }
+    //         };
+
+    //     StartCoroutine(PostScoreCoroutine(payload));
+    // }
 
     private IEnumerator PostScoreCoroutine(LeaderboardScorePayload payload)
     {
@@ -309,6 +344,27 @@ public class LeaderboardManager : MonoBehaviour
 
             GetTopScores();
         }
+    }
+
+    public void SaveScoreAndQuit()
+    {
+        StartCoroutine(SaveScoreAndQuitCoroutine());
+    }
+
+    private IEnumerator SaveScoreAndQuitCoroutine()
+    {
+        LeaderboardScorePayload payload = CreateScorePayload();
+
+        yield return StartCoroutine(PostScoreCoroutine(payload));
+
+        // Small buffer after the request has actually completed.
+        yield return new WaitForSecondsRealtime(0.25f);
+
+    #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+    #else
+        Application.Quit();
+    #endif
     }
 }
 

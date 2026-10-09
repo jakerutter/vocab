@@ -54,8 +54,8 @@ public class SettingsManager : MonoBehaviour
     {
         switch (index)
         {
-            case 0: return new Color(0, 0, 0, 1); // Black
-            case 1: return new Color(1, 1, 1, 1); // White
+            case 0: return new Color(1, 1, 1, 1); // White
+            case 1: return new Color(0, 0, 0, 1); // Black
             case 2: return new Color(1, 0, 0, 1); // Red
             case 3: return new Color(0, 0, 1, 1); // Blue
             case 4: return new Color(0, 1, 0, 1); // Green
@@ -69,8 +69,8 @@ public class SettingsManager : MonoBehaviour
     // Convert Color to TMP_Dropdown index
     private int ColorToDropdownIndex(Color color)
     {
-        if (color == Color.black) return 0; // "Black"
-        if (color == Color.white) return 1; // "White"
+        if (color == Color.white) return 0; // "White"
+        if (color == Color.black) return 1; // "Black"
         if (color == Color.red) return 2;   // "Red"
         if (color == Color.blue) return 3; // "Blue"
         if (color == Color.green) return 4; // "Green"

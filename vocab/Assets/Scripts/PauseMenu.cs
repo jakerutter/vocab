@@ -94,4 +94,16 @@ public class PauseMenu : MonoBehaviour
             gamePanelCG.blocksRaycasts = true;
         }
     }
+
+    public void SaveScoreAndQuit()
+    {
+        if (LeaderboardManager.Instance != null)
+        {
+            LeaderboardManager.Instance.SaveScoreAndQuit();
+        }
+        else
+        {
+            Debug.LogWarning("LeaderboardManager.Instance was not found.");
+        }
+    }
 }

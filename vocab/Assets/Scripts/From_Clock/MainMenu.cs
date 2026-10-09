@@ -16,14 +16,13 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
-        //AudioManager.instance.Play("TickTock");
         titleImage.FadeIn();
         playerName.text = $"{LeaderboardManager.Instance.GetPlayerName()}";
     }
 
     public void PlayGame()
     {
-        //aninmator.SetBool("PlayGame", true);
+
     }
 
     public void ToggleSettingsPanel()
