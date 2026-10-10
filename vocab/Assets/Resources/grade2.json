@@ -1,0 +1,2705 @@
+{
+  "grade": 2,
+  "words": [
+    {
+      "word": "able",
+      "definition": "Having the skill or power to do something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "skill",
+        "can",
+        "success"
+      ],
+      "synonyms": [
+        "capable",
+        "skilled"
+      ],
+      "antonyms": [
+        "unable",
+        "incapable"
+      ]
+    },
+    {
+      "word": "absent",
+      "definition": "Not present in a place where someone is expected to be.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "school",
+        "missing",
+        "attendance"
+      ],
+      "synonyms": [
+        "missing",
+        "away"
+      ],
+      "antonyms": [
+        "present",
+        "here"
+      ]
+    },
+    {
+      "word": "accept",
+      "definition": "To agree to take or receive something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "gift",
+        "offer",
+        "choice"
+      ],
+      "synonyms": [
+        "receive",
+        "agree to"
+      ],
+      "antonyms": [
+        "refuse",
+        "reject"
+      ]
+    },
+    {
+      "word": "active",
+      "definition": "Moving around or doing things often.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "movement",
+        "play",
+        "energy"
+      ],
+      "synonyms": [
+        "busy",
+        "energetic"
+      ],
+      "antonyms": [
+        "inactive",
+        "idle"
+      ]
+    },
+    {
+      "word": "add",
+      "definition": "To put something together with something else or increase an amount.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "math",
+        "number",
+        "total"
+      ],
+      "synonyms": [
+        "combine",
+        "increase"
+      ],
+      "antonyms": [
+        "subtract",
+        "remove"
+      ]
+    },
+    {
+      "word": "afraid",
+      "definition": "Feeling fear or worry about something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "fear",
+        "danger",
+        "worry"
+      ],
+      "synonyms": [
+        "scared",
+        "fearful"
+      ],
+      "antonyms": [
+        "brave",
+        "calm"
+      ]
+    },
+    {
+      "word": "agree",
+      "definition": "To have the same opinion or say yes to something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "opinion",
+        "choice",
+        "discussion"
+      ],
+      "synonyms": [
+        "accept",
+        "consent"
+      ],
+      "antonyms": [
+        "disagree",
+        "oppose"
+      ]
+    },
+    {
+      "word": "alive",
+      "definition": "Living and not dead.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "life",
+        "animal",
+        "plant"
+      ],
+      "synonyms": [
+        "living",
+        "live"
+      ],
+      "antonyms": [
+        "dead",
+        "lifeless"
+      ]
+    },
+    {
+      "word": "angry",
+      "definition": "Feeling mad or upset.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "feeling",
+        "argument",
+        "frustration"
+      ],
+      "synonyms": [
+        "mad",
+        "upset"
+      ],
+      "antonyms": [
+        "calm",
+        "pleased"
+      ]
+    },
+    {
+      "word": "appear",
+      "definition": "To come into sight or become visible.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "sight",
+        "stage",
+        "view"
+      ],
+      "synonyms": [
+        "show",
+        "emerge"
+      ],
+      "antonyms": [
+        "disappear",
+        "vanish"
+      ]
+    },
+    {
+      "word": "arrive",
+      "definition": "To reach a place after traveling.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "travel",
+        "destination",
+        "trip"
+      ],
+      "synonyms": [
+        "reach",
+        "come"
+      ],
+      "antonyms": [
+        "leave",
+        "depart"
+      ]
+    },
+    {
+      "word": "ask",
+      "definition": "To say something in order to get an answer or information.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "question",
+        "answer",
+        "information"
+      ],
+      "synonyms": [
+        "question",
+        "inquire"
+      ],
+      "antonyms": [
+        "answer",
+        "reply"
+      ]
+    },
+    {
+      "word": "awake",
+      "definition": "Not sleeping.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "morning",
+        "eyes",
+        "sleep"
+      ],
+      "synonyms": [
+        "alert",
+        "up"
+      ],
+      "antonyms": [
+        "asleep",
+        "sleeping"
+      ]
+    },
+    {
+      "word": "backward",
+      "definition": "Toward the back or in the opposite direction from forward.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "direction",
+        "back",
+        "movement"
+      ],
+      "synonyms": [
+        "back",
+        "reverse"
+      ],
+      "antonyms": [
+        "forward",
+        "ahead"
+      ]
+    },
+    {
+      "word": "bad",
+      "definition": "Not good or not pleasant.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "behavior",
+        "result",
+        "quality"
+      ],
+      "synonyms": [
+        "poor",
+        "wrong"
+      ],
+      "antonyms": [
+        "good",
+        "excellent"
+      ]
+    },
+    {
+      "word": "beautiful",
+      "definition": "Very pleasing to look at.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "flowers",
+        "art",
+        "nature"
+      ],
+      "synonyms": [
+        "pretty",
+        "lovely"
+      ],
+      "antonyms": [
+        "ugly",
+        "unattractive"
+      ]
+    },
+    {
+      "word": "begin",
+      "definition": "To start doing something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "start",
+        "first",
+        "action"
+      ],
+      "synonyms": [
+        "start",
+        "commence"
+      ],
+      "antonyms": [
+        "end",
+        "finish"
+      ]
+    },
+    {
+      "word": "below",
+      "definition": "In a lower place than something else.",
+      "partOfSpeech": "preposition",
+      "relatedWords": [
+        "position",
+        "under",
+        "height"
+      ],
+      "synonyms": [
+        "under",
+        "beneath"
+      ],
+      "antonyms": [
+        "above",
+        "over"
+      ]
+    },
+    {
+      "word": "bent",
+      "definition": "Curved and not straight.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "shape",
+        "curve",
+        "object"
+      ],
+      "synonyms": [
+        "curved",
+        "crooked"
+      ],
+      "antonyms": [
+        "straight",
+        "flat"
+      ]
+    },
+    {
+      "word": "best",
+      "definition": "Better than all the others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "winner",
+        "quality",
+        "choice"
+      ],
+      "synonyms": [
+        "finest",
+        "greatest"
+      ],
+      "antonyms": [
+        "worst",
+        "poorest"
+      ]
+    },
+    {
+      "word": "big",
+      "definition": "Large in size.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "object",
+        "animal"
+      ],
+      "synonyms": [
+        "large",
+        "huge"
+      ],
+      "antonyms": [
+        "small",
+        "little"
+      ]
+    },
+    {
+      "word": "bitter",
+      "definition": "Having a sharp taste that is not sweet.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "taste",
+        "food",
+        "flavor"
+      ],
+      "synonyms": [
+        "sharp",
+        "unsweet"
+      ],
+      "antonyms": [
+        "sweet",
+        "mild"
+      ]
+    },
+    {
+      "word": "bottom",
+      "definition": "The lowest part of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "container",
+        "ground",
+        "position"
+      ],
+      "synonyms": [
+        "base",
+        "lowest part"
+      ],
+      "antonyms": [
+        "top",
+        "summit"
+      ]
+    },
+    {
+      "word": "brave",
+      "definition": "Willing to face danger or fear.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "courage",
+        "hero",
+        "danger"
+      ],
+      "synonyms": [
+        "courageous",
+        "bold"
+      ],
+      "antonyms": [
+        "afraid",
+        "cowardly"
+      ]
+    },
+    {
+      "word": "bright",
+      "definition": "Giving off lots of light or easy to see.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "light",
+        "sun",
+        "color"
+      ],
+      "synonyms": [
+        "shining",
+        "light"
+      ],
+      "antonyms": [
+        "dark",
+        "dim"
+      ]
+    },
+    {
+      "word": "broken",
+      "definition": "Damaged and no longer whole or working.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "damage",
+        "toy",
+        "repair"
+      ],
+      "synonyms": [
+        "damaged",
+        "cracked"
+      ],
+      "antonyms": [
+        "fixed",
+        "whole"
+      ]
+    },
+    {
+      "word": "buy",
+      "definition": "To get something by paying money for it.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "money",
+        "store",
+        "shopping"
+      ],
+      "synonyms": [
+        "purchase",
+        "get"
+      ],
+      "antonyms": [
+        "sell",
+        "return"
+      ]
+    },
+    {
+      "word": "calm",
+      "definition": "Peaceful and not upset or excited.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "feeling",
+        "quiet",
+        "peace"
+      ],
+      "synonyms": [
+        "peaceful",
+        "relaxed"
+      ],
+      "antonyms": [
+        "angry",
+        "excited"
+      ]
+    },
+    {
+      "word": "careful",
+      "definition": "Taking time to avoid mistakes or danger.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "safety",
+        "attention",
+        "work"
+      ],
+      "synonyms": [
+        "cautious",
+        "watchful"
+      ],
+      "antonyms": [
+        "careless",
+        "reckless"
+      ]
+    },
+    {
+      "word": "cheerful",
+      "definition": "Happy and positive in mood.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "smile",
+        "joy",
+        "mood"
+      ],
+      "synonyms": [
+        "happy",
+        "glad"
+      ],
+      "antonyms": [
+        "gloomy",
+        "sad"
+      ]
+    },
+    {
+      "word": "clean",
+      "definition": "Free from dirt or mess.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "soap",
+        "room",
+        "wash"
+      ],
+      "synonyms": [
+        "tidy",
+        "spotless"
+      ],
+      "antonyms": [
+        "dirty",
+        "messy"
+      ]
+    },
+    {
+      "word": "close",
+      "definition": "Near in distance.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "distance",
+        "nearby",
+        "location"
+      ],
+      "synonyms": [
+        "near",
+        "nearby"
+      ],
+      "antonyms": [
+        "far",
+        "distant"
+      ]
+    },
+    {
+      "word": "cold",
+      "definition": "Having a low temperature.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "winter",
+        "ice",
+        "temperature"
+      ],
+      "synonyms": [
+        "chilly",
+        "cool"
+      ],
+      "antonyms": [
+        "hot",
+        "warm"
+      ]
+    },
+    {
+      "word": "come",
+      "definition": "To move toward a place or person.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "movement",
+        "arrival",
+        "place"
+      ],
+      "synonyms": [
+        "arrive",
+        "approach"
+      ],
+      "antonyms": [
+        "go",
+        "leave"
+      ]
+    },
+    {
+      "word": "correct",
+      "definition": "Free from mistakes; right.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "answer",
+        "school",
+        "accuracy"
+      ],
+      "synonyms": [
+        "right",
+        "accurate"
+      ],
+      "antonyms": [
+        "wrong",
+        "incorrect"
+      ]
+    },
+    {
+      "word": "crooked",
+      "definition": "Not straight; bent or twisted.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "line",
+        "road",
+        "shape"
+      ],
+      "synonyms": [
+        "bent",
+        "curved"
+      ],
+      "antonyms": [
+        "straight",
+        "even"
+      ]
+    },
+    {
+      "word": "cry",
+      "definition": "To shed tears because of strong feelings.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "tears",
+        "sadness",
+        "emotion"
+      ],
+      "synonyms": [
+        "weep",
+        "sob"
+      ],
+      "antonyms": [
+        "laugh",
+        "smile"
+      ]
+    },
+    {
+      "word": "dark",
+      "definition": "Having little or no light.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "night",
+        "shadow",
+        "room"
+      ],
+      "synonyms": [
+        "dim",
+        "gloomy"
+      ],
+      "antonyms": [
+        "bright",
+        "light"
+      ]
+    },
+    {
+      "word": "day",
+      "definition": "The time when it is light outside between morning and evening.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "sun",
+        "morning",
+        "time"
+      ],
+      "synonyms": [
+        "daytime",
+        "daylight"
+      ],
+      "antonyms": [
+        "night",
+        "darkness"
+      ]
+    },
+    {
+      "word": "deep",
+      "definition": "Going far down from the top or surface.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "water",
+        "hole",
+        "depth"
+      ],
+      "synonyms": [
+        "profound",
+        "far-down"
+      ],
+      "antonyms": [
+        "shallow",
+        "low"
+      ]
+    },
+    {
+      "word": "different",
+      "definition": "Not the same as something else.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "comparison",
+        "change",
+        "variety"
+      ],
+      "synonyms": [
+        "unlike",
+        "separate"
+      ],
+      "antonyms": [
+        "same",
+        "similar"
+      ]
+    },
+    {
+      "word": "difficult",
+      "definition": "Hard to do or understand.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "challenge",
+        "task",
+        "problem"
+      ],
+      "synonyms": [
+        "hard",
+        "tough"
+      ],
+      "antonyms": [
+        "easy",
+        "simple"
+      ]
+    },
+    {
+      "word": "dirty",
+      "definition": "Covered with dirt or not clean.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "mud",
+        "clothes",
+        "mess"
+      ],
+      "synonyms": [
+        "filthy",
+        "messy"
+      ],
+      "antonyms": [
+        "clean",
+        "spotless"
+      ]
+    },
+    {
+      "word": "down",
+      "definition": "Toward a lower place or position.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "direction",
+        "stairs",
+        "ground"
+      ],
+      "synonyms": [
+        "lower",
+        "downward"
+      ],
+      "antonyms": [
+        "up",
+        "upward"
+      ]
+    },
+    {
+      "word": "dry",
+      "definition": "Not wet or covered with water.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weather",
+        "towel",
+        "ground"
+      ],
+      "synonyms": [
+        "parched",
+        "waterless"
+      ],
+      "antonyms": [
+        "wet",
+        "damp"
+      ]
+    },
+    {
+      "word": "early",
+      "definition": "Before the usual or expected time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "time",
+        "morning",
+        "schedule"
+      ],
+      "synonyms": [
+        "ahead",
+        "prompt"
+      ],
+      "antonyms": [
+        "late",
+        "delayed"
+      ]
+    },
+    {
+      "word": "easy",
+      "definition": "Not hard to do or understand.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "task",
+        "answer",
+        "work"
+      ],
+      "synonyms": [
+        "simple",
+        "effortless"
+      ],
+      "antonyms": [
+        "difficult",
+        "hard"
+      ]
+    },
+    {
+      "word": "empty",
+      "definition": "Having nothing inside.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "box",
+        "cup",
+        "space"
+      ],
+      "synonyms": [
+        "vacant",
+        "blank"
+      ],
+      "antonyms": [
+        "full",
+        "filled"
+      ]
+    },
+    {
+      "word": "enemy",
+      "definition": "A person who is against another person or group.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "conflict",
+        "opponent",
+        "argument"
+      ],
+      "synonyms": [
+        "opponent",
+        "foe"
+      ],
+      "antonyms": [
+        "friend",
+        "ally"
+      ]
+    },
+    {
+      "word": "enter",
+      "definition": "To go or come into a place.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "door",
+        "room",
+        "inside"
+      ],
+      "synonyms": [
+        "go in",
+        "come in"
+      ],
+      "antonyms": [
+        "exit",
+        "leave"
+      ]
+    },
+    {
+      "word": "even",
+      "definition": "Flat, level, or equal.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "surface",
+        "balance",
+        "amount"
+      ],
+      "synonyms": [
+        "level",
+        "equal"
+      ],
+      "antonyms": [
+        "uneven",
+        "unequal"
+      ]
+    },
+    {
+      "word": "excited",
+      "definition": "Very happy and eager about something.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "feeling",
+        "event",
+        "energy"
+      ],
+      "synonyms": [
+        "eager",
+        "thrilled"
+      ],
+      "antonyms": [
+        "calm",
+        "bored"
+      ]
+    },
+    {
+      "word": "far",
+      "definition": "A long distance away.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "distance",
+        "travel",
+        "place"
+      ],
+      "synonyms": [
+        "distant",
+        "remote"
+      ],
+      "antonyms": [
+        "near",
+        "close"
+      ]
+    },
+    {
+      "word": "fast",
+      "definition": "Moving or happening quickly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "speed",
+        "race",
+        "motion"
+      ],
+      "synonyms": [
+        "quick",
+        "rapid"
+      ],
+      "antonyms": [
+        "slow",
+        "sluggish"
+      ]
+    },
+    {
+      "word": "fat",
+      "definition": "Having a thick or rounded shape.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "shape",
+        "size",
+        "body"
+      ],
+      "synonyms": [
+        "plump",
+        "thick"
+      ],
+      "antonyms": [
+        "thin",
+        "slim"
+      ]
+    },
+    {
+      "word": "few",
+      "definition": "A small number of people or things.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "number",
+        "amount",
+        "count"
+      ],
+      "synonyms": [
+        "some",
+        "not many"
+      ],
+      "antonyms": [
+        "many",
+        "numerous"
+      ]
+    },
+    {
+      "word": "find",
+      "definition": "To discover or locate something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "search",
+        "object",
+        "clue"
+      ],
+      "synonyms": [
+        "discover",
+        "locate"
+      ],
+      "antonyms": [
+        "lose",
+        "misplace"
+      ]
+    },
+    {
+      "word": "finish",
+      "definition": "To bring something to an end.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "end",
+        "task",
+        "work"
+      ],
+      "synonyms": [
+        "complete",
+        "end"
+      ],
+      "antonyms": [
+        "begin",
+        "start"
+      ]
+    },
+    {
+      "word": "first",
+      "definition": "Coming before all others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "order",
+        "place",
+        "beginning"
+      ],
+      "synonyms": [
+        "earliest",
+        "leading"
+      ],
+      "antonyms": [
+        "last",
+        "final"
+      ]
+    },
+    {
+      "word": "float",
+      "definition": "To stay on top of water or in the air.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "water",
+        "air",
+        "boat"
+      ],
+      "synonyms": [
+        "drift",
+        "bob"
+      ],
+      "antonyms": [
+        "sink",
+        "drop"
+      ]
+    },
+    {
+      "word": "foolish",
+      "definition": "Showing poor judgment or not being wise.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "choice",
+        "mistake",
+        "behavior"
+      ],
+      "synonyms": [
+        "silly",
+        "unwise"
+      ],
+      "antonyms": [
+        "wise",
+        "sensible"
+      ]
+    },
+    {
+      "word": "forget",
+      "definition": "To fail to remember something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "memory",
+        "thought",
+        "reminder"
+      ],
+      "synonyms": [
+        "overlook",
+        "fail to remember"
+      ],
+      "antonyms": [
+        "remember",
+        "recall"
+      ]
+    },
+    {
+      "word": "forward",
+      "definition": "Toward the front or ahead.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "direction",
+        "movement",
+        "front"
+      ],
+      "synonyms": [
+        "ahead",
+        "onward"
+      ],
+      "antonyms": [
+        "backward",
+        "back"
+      ]
+    },
+    {
+      "word": "friend",
+      "definition": "A person you know and like.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "kindness",
+        "play",
+        "trust"
+      ],
+      "synonyms": [
+        "pal",
+        "buddy"
+      ],
+      "antonyms": [
+        "enemy",
+        "opponent"
+      ]
+    },
+    {
+      "word": "full",
+      "definition": "Holding as much as possible; having no empty space.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "cup",
+        "box",
+        "amount"
+      ],
+      "synonyms": [
+        "filled",
+        "packed"
+      ],
+      "antonyms": [
+        "empty",
+        "vacant"
+      ]
+    },
+    {
+      "word": "gentle",
+      "definition": "Kind, calm, and not rough.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "touch",
+        "voice",
+        "animal"
+      ],
+      "synonyms": [
+        "mild",
+        "soft"
+      ],
+      "antonyms": [
+        "rough",
+        "harsh"
+      ]
+    },
+    {
+      "word": "giant",
+      "definition": "Very large in size.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "animal",
+        "object"
+      ],
+      "synonyms": [
+        "huge",
+        "enormous"
+      ],
+      "antonyms": [
+        "tiny",
+        "small"
+      ]
+    },
+    {
+      "word": "give",
+      "definition": "To hand something to another person.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "gift",
+        "share",
+        "hand"
+      ],
+      "synonyms": [
+        "offer",
+        "hand"
+      ],
+      "antonyms": [
+        "take",
+        "keep"
+      ]
+    },
+    {
+      "word": "glad",
+      "definition": "Feeling happy or pleased.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "feeling",
+        "smile",
+        "good news"
+      ],
+      "synonyms": [
+        "happy",
+        "pleased"
+      ],
+      "antonyms": [
+        "sad",
+        "unhappy"
+      ]
+    },
+    {
+      "word": "go",
+      "definition": "To move from one place to another.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "travel",
+        "movement",
+        "place"
+      ],
+      "synonyms": [
+        "move",
+        "leave"
+      ],
+      "antonyms": [
+        "stay",
+        "remain"
+      ]
+    },
+    {
+      "word": "good",
+      "definition": "Pleasant, helpful, or of high quality.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "behavior",
+        "choice",
+        "quality"
+      ],
+      "synonyms": [
+        "fine",
+        "excellent"
+      ],
+      "antonyms": [
+        "bad",
+        "poor"
+      ]
+    },
+    {
+      "word": "happy",
+      "definition": "Feeling joy or pleasure.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "smile",
+        "joy",
+        "feeling"
+      ],
+      "synonyms": [
+        "glad",
+        "cheerful"
+      ],
+      "antonyms": [
+        "sad",
+        "unhappy"
+      ]
+    },
+    {
+      "word": "hard",
+      "definition": "Difficult to do or understand.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "task",
+        "problem",
+        "work"
+      ],
+      "synonyms": [
+        "difficult",
+        "tough"
+      ],
+      "antonyms": [
+        "easy",
+        "simple"
+      ]
+    },
+    {
+      "word": "hardworking",
+      "definition": "Putting a lot of effort into work or tasks.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "effort",
+        "school",
+        "work"
+      ],
+      "synonyms": [
+        "diligent",
+        "industrious"
+      ],
+      "antonyms": [
+        "lazy",
+        "idle"
+      ]
+    },
+    {
+      "word": "healthy",
+      "definition": "Well and free from sickness.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "body",
+        "food",
+        "exercise"
+      ],
+      "synonyms": [
+        "well",
+        "fit"
+      ],
+      "antonyms": [
+        "sick",
+        "unhealthy"
+      ]
+    },
+    {
+      "word": "heavy",
+      "definition": "Weighing a lot.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weight",
+        "object",
+        "lift"
+      ],
+      "synonyms": [
+        "weighty",
+        "hefty"
+      ],
+      "antonyms": [
+        "light",
+        "lightweight"
+      ]
+    },
+    {
+      "word": "high",
+      "definition": "Far above the ground or another point.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "height",
+        "mountain",
+        "sky"
+      ],
+      "synonyms": [
+        "tall",
+        "lofty"
+      ],
+      "antonyms": [
+        "low",
+        "short"
+      ]
+    },
+    {
+      "word": "honest",
+      "definition": "Telling the truth and not cheating.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "truth",
+        "trust",
+        "character"
+      ],
+      "synonyms": [
+        "truthful",
+        "sincere"
+      ],
+      "antonyms": [
+        "dishonest",
+        "untruthful"
+      ]
+    },
+    {
+      "word": "hot",
+      "definition": "Having a high temperature.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "summer",
+        "fire",
+        "temperature"
+      ],
+      "synonyms": [
+        "warm",
+        "heated"
+      ],
+      "antonyms": [
+        "cold",
+        "cool"
+      ]
+    },
+    {
+      "word": "huge",
+      "definition": "Very large in size or amount.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "animal",
+        "building"
+      ],
+      "synonyms": [
+        "giant",
+        "enormous"
+      ],
+      "antonyms": [
+        "tiny",
+        "small"
+      ]
+    },
+    {
+      "word": "inside",
+      "definition": "In or into the inner part of something.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "room",
+        "house",
+        "container"
+      ],
+      "synonyms": [
+        "indoors",
+        "within"
+      ],
+      "antonyms": [
+        "outside",
+        "outdoors"
+      ]
+    },
+    {
+      "word": "kind",
+      "definition": "Caring and helpful toward others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "friendship",
+        "help",
+        "behavior"
+      ],
+      "synonyms": [
+        "nice",
+        "caring"
+      ],
+      "antonyms": [
+        "mean",
+        "cruel"
+      ]
+    },
+    {
+      "word": "last",
+      "definition": "Coming after all others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "order",
+        "end",
+        "place"
+      ],
+      "synonyms": [
+        "final",
+        "ending"
+      ],
+      "antonyms": [
+        "first",
+        "earliest"
+      ]
+    },
+    {
+      "word": "late",
+      "definition": "After the expected or usual time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "time",
+        "schedule",
+        "arrival"
+      ],
+      "synonyms": [
+        "delayed",
+        "tardy"
+      ],
+      "antonyms": [
+        "early",
+        "prompt"
+      ]
+    },
+    {
+      "word": "laugh",
+      "definition": "To make a happy sound when something is funny.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "humor",
+        "smile",
+        "joy"
+      ],
+      "synonyms": [
+        "giggle",
+        "chuckle"
+      ],
+      "antonyms": [
+        "cry",
+        "sob"
+      ]
+    },
+    {
+      "word": "lazy",
+      "definition": "Not willing to work or be active.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "work",
+        "effort",
+        "rest"
+      ],
+      "synonyms": [
+        "idle",
+        "sluggish"
+      ],
+      "antonyms": [
+        "hardworking",
+        "active"
+      ]
+    },
+    {
+      "word": "left",
+      "definition": "On the side opposite right.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "direction",
+        "side",
+        "turn"
+      ],
+      "synonyms": [
+        "left-hand",
+        "port"
+      ],
+      "antonyms": [
+        "right",
+        "right-hand"
+      ]
+    },
+    {
+      "word": "light",
+      "definition": "Not weighing very much.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weight",
+        "object",
+        "carry"
+      ],
+      "synonyms": [
+        "lightweight",
+        "slight"
+      ],
+      "antonyms": [
+        "heavy",
+        "weighty"
+      ]
+    },
+    {
+      "word": "little",
+      "definition": "Small in size or amount.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "amount",
+        "child"
+      ],
+      "synonyms": [
+        "small",
+        "tiny"
+      ],
+      "antonyms": [
+        "big",
+        "large"
+      ]
+    },
+    {
+      "word": "loose",
+      "definition": "Not tight or firmly fixed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "rope",
+        "clothes",
+        "knot"
+      ],
+      "synonyms": [
+        "slack",
+        "free"
+      ],
+      "antonyms": [
+        "tight",
+        "secure"
+      ]
+    },
+    {
+      "word": "lost",
+      "definition": "Unable to be found or not knowing the way.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "map",
+        "direction",
+        "search"
+      ],
+      "synonyms": [
+        "missing",
+        "misplaced"
+      ],
+      "antonyms": [
+        "found",
+        "located"
+      ]
+    },
+    {
+      "word": "loud",
+      "definition": "Making a lot of sound.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "noise",
+        "music",
+        "voice"
+      ],
+      "synonyms": [
+        "noisy",
+        "booming"
+      ],
+      "antonyms": [
+        "quiet",
+        "soft"
+      ]
+    },
+    {
+      "word": "low",
+      "definition": "Not high or far above the ground.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "height",
+        "position",
+        "sound"
+      ],
+      "synonyms": [
+        "short",
+        "lower"
+      ],
+      "antonyms": [
+        "high",
+        "tall"
+      ]
+    },
+    {
+      "word": "many",
+      "definition": "A large number of people or things.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "number",
+        "amount",
+        "count"
+      ],
+      "synonyms": [
+        "numerous",
+        "several"
+      ],
+      "antonyms": [
+        "few",
+        "scarce"
+      ]
+    },
+    {
+      "word": "mean",
+      "definition": "Unkind or hurtful toward others.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "behavior",
+        "words",
+        "bullying"
+      ],
+      "synonyms": [
+        "unkind",
+        "cruel"
+      ],
+      "antonyms": [
+        "kind",
+        "nice"
+      ]
+    },
+    {
+      "word": "messy",
+      "definition": "Not neat or clean.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "room",
+        "desk",
+        "clothes"
+      ],
+      "synonyms": [
+        "untidy",
+        "dirty"
+      ],
+      "antonyms": [
+        "neat",
+        "tidy"
+      ]
+    },
+    {
+      "word": "narrow",
+      "definition": "Not wide; having little space from side to side.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "road",
+        "path",
+        "width"
+      ],
+      "synonyms": [
+        "thin",
+        "slim"
+      ],
+      "antonyms": [
+        "wide",
+        "broad"
+      ]
+    },
+    {
+      "word": "near",
+      "definition": "Not far away.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "distance",
+        "place",
+        "location"
+      ],
+      "synonyms": [
+        "close",
+        "nearby"
+      ],
+      "antonyms": [
+        "far",
+        "distant"
+      ]
+    },
+    {
+      "word": "neat",
+      "definition": "Clean and arranged in an orderly way.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "room",
+        "writing",
+        "desk"
+      ],
+      "synonyms": [
+        "tidy",
+        "orderly"
+      ],
+      "antonyms": [
+        "messy",
+        "untidy"
+      ]
+    },
+    {
+      "word": "new",
+      "definition": "Recently made, bought, or discovered.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "object",
+        "change",
+        "time"
+      ],
+      "synonyms": [
+        "fresh",
+        "recent"
+      ],
+      "antonyms": [
+        "old",
+        "used"
+      ]
+    },
+    {
+      "word": "noisy",
+      "definition": "Making a lot of sound.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "sound",
+        "classroom",
+        "machine"
+      ],
+      "synonyms": [
+        "loud",
+        "rowdy"
+      ],
+      "antonyms": [
+        "quiet",
+        "silent"
+      ]
+    },
+    {
+      "word": "old",
+      "definition": "Having existed for a long time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "age",
+        "object",
+        "time"
+      ],
+      "synonyms": [
+        "aged",
+        "ancient"
+      ],
+      "antonyms": [
+        "new",
+        "young"
+      ]
+    },
+    {
+      "word": "open",
+      "definition": "Not closed or shut.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "door",
+        "box",
+        "space"
+      ],
+      "synonyms": [
+        "unclosed",
+        "unlocked"
+      ],
+      "antonyms": [
+        "closed",
+        "shut"
+      ]
+    },
+    {
+      "word": "outside",
+      "definition": "On or toward the outer part of something.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "yard",
+        "building",
+        "outdoors"
+      ],
+      "synonyms": [
+        "outdoors",
+        "externally"
+      ],
+      "antonyms": [
+        "inside",
+        "indoors"
+      ]
+    },
+    {
+      "word": "over",
+      "definition": "Above or higher than something.",
+      "partOfSpeech": "preposition",
+      "relatedWords": [
+        "position",
+        "height",
+        "top"
+      ],
+      "synonyms": [
+        "above",
+        "on top of"
+      ],
+      "antonyms": [
+        "under",
+        "below"
+      ]
+    },
+    {
+      "word": "patient",
+      "definition": "Able to wait calmly without becoming upset.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "waiting",
+        "calm",
+        "time"
+      ],
+      "synonyms": [
+        "calm",
+        "tolerant"
+      ],
+      "antonyms": [
+        "impatient",
+        "restless"
+      ]
+    },
+    {
+      "word": "poor",
+      "definition": "Having little money or few possessions.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "money",
+        "needs",
+        "resources"
+      ],
+      "synonyms": [
+        "needy",
+        "low-income"
+      ],
+      "antonyms": [
+        "rich",
+        "wealthy"
+      ]
+    },
+    {
+      "word": "pretty",
+      "definition": "Pleasant or attractive to look at.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "appearance",
+        "flowers",
+        "clothes"
+      ],
+      "synonyms": [
+        "beautiful",
+        "lovely"
+      ],
+      "antonyms": [
+        "ugly",
+        "unattractive"
+      ]
+    },
+    {
+      "word": "pull",
+      "definition": "To move something toward you.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "movement",
+        "rope",
+        "door"
+      ],
+      "synonyms": [
+        "drag",
+        "tug"
+      ],
+      "antonyms": [
+        "push",
+        "shove"
+      ]
+    },
+    {
+      "word": "push",
+      "definition": "To move something away from you by using force.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "movement",
+        "door",
+        "force"
+      ],
+      "synonyms": [
+        "shove",
+        "press"
+      ],
+      "antonyms": [
+        "pull",
+        "drag"
+      ]
+    },
+    {
+      "word": "quiet",
+      "definition": "Making little or no sound.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "sound",
+        "library",
+        "voice"
+      ],
+      "synonyms": [
+        "silent",
+        "calm"
+      ],
+      "antonyms": [
+        "loud",
+        "noisy"
+      ]
+    },
+    {
+      "word": "raise",
+      "definition": "To move something to a higher position.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "height",
+        "hand",
+        "lift"
+      ],
+      "synonyms": [
+        "lift",
+        "elevate"
+      ],
+      "antonyms": [
+        "lower",
+        "drop"
+      ]
+    },
+    {
+      "word": "rich",
+      "definition": "Having a lot of money or valuable things.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "money",
+        "wealth",
+        "possessions"
+      ],
+      "synonyms": [
+        "wealthy",
+        "well-off"
+      ],
+      "antonyms": [
+        "poor",
+        "needy"
+      ]
+    },
+    {
+      "word": "right",
+      "definition": "Correct or true.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "answer",
+        "choice",
+        "truth"
+      ],
+      "synonyms": [
+        "correct",
+        "true"
+      ],
+      "antonyms": [
+        "wrong",
+        "incorrect"
+      ]
+    },
+    {
+      "word": "rough",
+      "definition": "Not smooth; having an uneven surface.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "texture",
+        "road",
+        "stone"
+      ],
+      "synonyms": [
+        "bumpy",
+        "coarse"
+      ],
+      "antonyms": [
+        "smooth",
+        "even"
+      ]
+    },
+    {
+      "word": "sad",
+      "definition": "Feeling unhappy or sorrowful.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "feeling",
+        "tears",
+        "mood"
+      ],
+      "synonyms": [
+        "unhappy",
+        "gloomy"
+      ],
+      "antonyms": [
+        "happy",
+        "cheerful"
+      ]
+    },
+    {
+      "word": "safe",
+      "definition": "Protected from danger or harm.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "safety",
+        "home",
+        "helmet"
+      ],
+      "synonyms": [
+        "secure",
+        "protected"
+      ],
+      "antonyms": [
+        "dangerous",
+        "unsafe"
+      ]
+    },
+    {
+      "word": "same",
+      "definition": "Exactly alike or not different.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "comparison",
+        "matching",
+        "group"
+      ],
+      "synonyms": [
+        "identical",
+        "alike"
+      ],
+      "antonyms": [
+        "different",
+        "unlike"
+      ]
+    },
+    {
+      "word": "short",
+      "definition": "Not long or not tall.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "length",
+        "height",
+        "time"
+      ],
+      "synonyms": [
+        "brief",
+        "small"
+      ],
+      "antonyms": [
+        "long",
+        "tall"
+      ]
+    },
+    {
+      "word": "sick",
+      "definition": "Not healthy; feeling ill.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "health",
+        "doctor",
+        "medicine"
+      ],
+      "synonyms": [
+        "ill",
+        "unwell"
+      ],
+      "antonyms": [
+        "healthy",
+        "well"
+      ]
+    },
+    {
+      "word": "simple",
+      "definition": "Easy to understand or do.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "task",
+        "directions",
+        "idea"
+      ],
+      "synonyms": [
+        "easy",
+        "plain"
+      ],
+      "antonyms": [
+        "difficult",
+        "complex"
+      ]
+    },
+    {
+      "word": "slow",
+      "definition": "Moving or happening with little speed.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "speed",
+        "turtle",
+        "motion"
+      ],
+      "synonyms": [
+        "sluggish",
+        "unhurried"
+      ],
+      "antonyms": [
+        "fast",
+        "quick"
+      ]
+    },
+    {
+      "word": "small",
+      "definition": "Little in size or amount.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "object",
+        "amount"
+      ],
+      "synonyms": [
+        "tiny",
+        "little"
+      ],
+      "antonyms": [
+        "big",
+        "large"
+      ]
+    },
+    {
+      "word": "smooth",
+      "definition": "Having an even surface without bumps.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "texture",
+        "glass",
+        "stone"
+      ],
+      "synonyms": [
+        "even",
+        "flat"
+      ],
+      "antonyms": [
+        "rough",
+        "bumpy"
+      ]
+    },
+    {
+      "word": "soft",
+      "definition": "Easy to press, bend, or touch gently.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "pillow",
+        "blanket",
+        "texture"
+      ],
+      "synonyms": [
+        "gentle",
+        "cushiony"
+      ],
+      "antonyms": [
+        "hard",
+        "firm"
+      ]
+    },
+    {
+      "word": "sour",
+      "definition": "Having a sharp taste like a lemon.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "taste",
+        "lemon",
+        "food"
+      ],
+      "synonyms": [
+        "tart",
+        "acidic"
+      ],
+      "antonyms": [
+        "sweet",
+        "mild"
+      ]
+    },
+    {
+      "word": "start",
+      "definition": "To begin doing something.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "beginning",
+        "action",
+        "game"
+      ],
+      "synonyms": [
+        "begin",
+        "commence"
+      ],
+      "antonyms": [
+        "stop",
+        "finish"
+      ]
+    },
+    {
+      "word": "stay",
+      "definition": "To remain in the same place.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "place",
+        "home",
+        "remain"
+      ],
+      "synonyms": [
+        "remain",
+        "wait"
+      ],
+      "antonyms": [
+        "go",
+        "leave"
+      ]
+    },
+    {
+      "word": "straight",
+      "definition": "Without bends or curves.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "line",
+        "road",
+        "shape"
+      ],
+      "synonyms": [
+        "direct",
+        "uncurved"
+      ],
+      "antonyms": [
+        "crooked",
+        "bent"
+      ]
+    },
+    {
+      "word": "strong",
+      "definition": "Having great power or force.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "muscles",
+        "strength",
+        "building"
+      ],
+      "synonyms": [
+        "powerful",
+        "sturdy"
+      ],
+      "antonyms": [
+        "weak",
+        "feeble"
+      ]
+    },
+    {
+      "word": "sweet",
+      "definition": "Having a taste like sugar or honey.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "taste",
+        "candy",
+        "honey"
+      ],
+      "synonyms": [
+        "sugary",
+        "sugared"
+      ],
+      "antonyms": [
+        "sour",
+        "bitter"
+      ]
+    },
+    {
+      "word": "tall",
+      "definition": "Having a great height.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "height",
+        "person",
+        "building"
+      ],
+      "synonyms": [
+        "high",
+        "lofty"
+      ],
+      "antonyms": [
+        "short",
+        "low"
+      ]
+    },
+    {
+      "word": "thick",
+      "definition": "Having a large distance from one side to the other.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "book",
+        "wall",
+        "blanket"
+      ],
+      "synonyms": [
+        "wide",
+        "dense"
+      ],
+      "antonyms": [
+        "thin",
+        "slim"
+      ]
+    },
+    {
+      "word": "thin",
+      "definition": "Having a small distance from one side to the other.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "paper",
+        "line",
+        "shape"
+      ],
+      "synonyms": [
+        "slim",
+        "narrow"
+      ],
+      "antonyms": [
+        "thick",
+        "wide"
+      ]
+    },
+    {
+      "word": "tidy",
+      "definition": "Clean and arranged neatly.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "room",
+        "desk",
+        "order"
+      ],
+      "synonyms": [
+        "neat",
+        "orderly"
+      ],
+      "antonyms": [
+        "messy",
+        "untidy"
+      ]
+    },
+    {
+      "word": "tiny",
+      "definition": "Very small.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "size",
+        "insect",
+        "object"
+      ],
+      "synonyms": [
+        "small",
+        "little"
+      ],
+      "antonyms": [
+        "huge",
+        "giant"
+      ]
+    },
+    {
+      "word": "together",
+      "definition": "With another person or thing; in one group.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "group",
+        "friends",
+        "team"
+      ],
+      "synonyms": [
+        "jointly",
+        "alongside"
+      ],
+      "antonyms": [
+        "apart",
+        "separately"
+      ]
+    },
+    {
+      "word": "top",
+      "definition": "The highest part of something.",
+      "partOfSpeech": "noun",
+      "relatedWords": [
+        "height",
+        "mountain",
+        "container"
+      ],
+      "synonyms": [
+        "peak",
+        "summit"
+      ],
+      "antonyms": [
+        "bottom",
+        "base"
+      ]
+    },
+    {
+      "word": "true",
+      "definition": "Correct and based on facts.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "fact",
+        "answer",
+        "story"
+      ],
+      "synonyms": [
+        "correct",
+        "real"
+      ],
+      "antonyms": [
+        "false",
+        "wrong"
+      ]
+    },
+    {
+      "word": "under",
+      "definition": "Below or beneath something.",
+      "partOfSpeech": "preposition",
+      "relatedWords": [
+        "position",
+        "table",
+        "ground"
+      ],
+      "synonyms": [
+        "below",
+        "beneath"
+      ],
+      "antonyms": [
+        "over",
+        "above"
+      ]
+    },
+    {
+      "word": "up",
+      "definition": "Toward a higher place or position.",
+      "partOfSpeech": "adverb",
+      "relatedWords": [
+        "direction",
+        "stairs",
+        "sky"
+      ],
+      "synonyms": [
+        "upward",
+        "above"
+      ],
+      "antonyms": [
+        "down",
+        "downward"
+      ]
+    },
+    {
+      "word": "warm",
+      "definition": "Having a comfortably high temperature.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "weather",
+        "blanket",
+        "temperature"
+      ],
+      "synonyms": [
+        "mild",
+        "heated"
+      ],
+      "antonyms": [
+        "cold",
+        "cool"
+      ]
+    },
+    {
+      "word": "weak",
+      "definition": "Not strong or powerful.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "strength",
+        "body",
+        "structure"
+      ],
+      "synonyms": [
+        "feeble",
+        "frail"
+      ],
+      "antonyms": [
+        "strong",
+        "powerful"
+      ]
+    },
+    {
+      "word": "wet",
+      "definition": "Covered or filled with water or another liquid.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "rain",
+        "water",
+        "towel"
+      ],
+      "synonyms": [
+        "damp",
+        "moist"
+      ],
+      "antonyms": [
+        "dry",
+        "parched"
+      ]
+    },
+    {
+      "word": "wide",
+      "definition": "Having a large distance from side to side.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "road",
+        "river",
+        "width"
+      ],
+      "synonyms": [
+        "broad",
+        "spacious"
+      ],
+      "antonyms": [
+        "narrow",
+        "thin"
+      ]
+    },
+    {
+      "word": "wild",
+      "definition": "Living or growing in nature and not controlled by people.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "animal",
+        "nature",
+        "forest"
+      ],
+      "synonyms": [
+        "untamed",
+        "free"
+      ],
+      "antonyms": [
+        "tame",
+        "domesticated"
+      ]
+    },
+    {
+      "word": "win",
+      "definition": "To finish first or be successful in a contest.",
+      "partOfSpeech": "verb",
+      "relatedWords": [
+        "game",
+        "contest",
+        "prize"
+      ],
+      "synonyms": [
+        "succeed",
+        "triumph"
+      ],
+      "antonyms": [
+        "lose",
+        "fail"
+      ]
+    },
+    {
+      "word": "wise",
+      "definition": "Showing good judgment and understanding.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "choice",
+        "advice",
+        "thinking"
+      ],
+      "synonyms": [
+        "smart",
+        "sensible"
+      ],
+      "antonyms": [
+        "foolish",
+        "unwise"
+      ]
+    },
+    {
+      "word": "wrong",
+      "definition": "Not correct or true.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "answer",
+        "mistake",
+        "choice"
+      ],
+      "synonyms": [
+        "incorrect",
+        "false"
+      ],
+      "antonyms": [
+        "right",
+        "correct"
+      ]
+    },
+    {
+      "word": "young",
+      "definition": "Having lived or existed for only a short time.",
+      "partOfSpeech": "adjective",
+      "relatedWords": [
+        "age",
+        "child",
+        "animal"
+      ],
+      "synonyms": [
+        "youthful",
+        "little"
+      ],
+      "antonyms": [
+        "old",
+        "aged"
+      ]
+    }
+  ]
+}

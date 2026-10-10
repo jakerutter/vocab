@@ -9,8 +9,8 @@ public class GradeSelector : MonoBehaviour
     [SerializeField] private Button moreButton;
     [SerializeField] private TextMeshProUGUI gradeText;
 
-    [SerializeField] private int minGrade = 3;
-    [SerializeField] private int maxGrade = 12;
+    [SerializeField] private int minGrade = 2;
+    [SerializeField] private int maxGrade = 6;
     [SerializeField] private int currentGrade = 3;
 
     public int CurrentGrade => currentGrade;
